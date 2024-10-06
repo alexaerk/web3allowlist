@@ -23,6 +23,9 @@ jobs:
     name: Lint
     # Set the agent to run on
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      statuses: write
 
     ##################
     # Load all steps #
@@ -42,11 +45,13 @@ jobs:
       # Run Linter against code base #
       ################################
       - name: Lint
-        uses: github/super-linter@v5.0.0
+        uses: github/super-linter@v7
         env:
           VALIDATE_ALL_CODEBASE: false
           DEFAULT_BRANCH: main
-          GITHUB_TOKEN: ${{ secrets.CI_BOT_TOKEN }}
+          GITHUB_TOKEN: ${{ github.token }}
           # since we are only interested in linting the allowlist JSON file
           VALIDATE_MARKDOWN: false
           VALIDATE_NATURAL_LANGUAGE: false
+          VALIDATE_JSCPD: false
+          VALIDATE_CHECKOV: false

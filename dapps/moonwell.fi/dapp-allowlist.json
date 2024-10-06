@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "$schema": "../dapp-allowlist.schema.json",
+  "name": "Moonwell",
+  "domain": "moonwell.fi",
+  "chains": {
+    "base": [
+      {
+        "address": "0x70778cfcfc475c7ea0f24cc625baf6eae475d0c9"
+      },
+      {
+        "address": "0x123f3167a416ca19365de03a65e0af3532af7223"
+      }
+    ]
+  }
+}

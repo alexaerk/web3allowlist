@@ -4,17 +4,17 @@
   "name": "Ape",
   "domain": "ape.bond",
   "chains": {
-    "gnosis": [
+    "ethereum": [
       {
         "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
       }
     ],
-    "fantom": [
+    "bsc": [
       {
         "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
       }
     ],
-    "optimism": [
+    "arbitrum": [
       {
         "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
       }
@@ -24,7 +24,17 @@
         "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
       }
     ],
-    "ethereum": [
+    "optimism": [
+      {
+        "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+      }
+    ],
+    "fantom": [
+      {
+        "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+      }
+    ],
+    "gnosis": [
       {
         "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
       }

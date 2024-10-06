@@ -4,20 +4,20 @@
   "name": "Jumper",
   "domain": "jumper.exchange",
   "chains": {
-    "polygon": [
-      {
-        "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
-      }
-    ],
     "gnosis": [
       {
-        "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+        "address": "0xcb444e90d8198415266c6a2724b7900fb12fc56e"
       },
       {
-        "address": "0xcb444e90d8198415266c6a2724b7900fb12fc56e"
+        "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
       }
     ],
     "ethereum": [
+      {
+        "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+      }
+    ],
+    "polygon": [
       {
         "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
       }
@@ -27,12 +27,12 @@
         "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
       }
     ],
-    "fantom": [
+    "optimism": [
       {
         "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
       }
     ],
-    "optimism": [
+    "arbitrum": [
       {
         "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
       }
@@ -42,9 +42,19 @@
         "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
       }
     ],
-    "arbitrum": [
+    "avalanche": [
       {
         "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+      }
+    ],
+    "fantom": [
+      {
+        "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+      }
+    ],
+    "zksync": [
+      {
+        "address": "0x341e94069f53234fe6dabef707ad424830525715"
       }
     ]
   }

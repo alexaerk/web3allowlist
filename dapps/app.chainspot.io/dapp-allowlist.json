@@ -4,7 +4,15 @@
   "name": "Chainspot",
   "domain": "app.chainspot.io",
   "chains": {
-    "gnosis": [
+    "bsc": [
+      {
+        "address": "0x7d26f09d4e2d032efa0729fc31a4c2db8a2394b1"
+      },
+      {
+        "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+      }
+    ],
+    "ethereum": [
       {
         "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
       }
@@ -14,12 +22,7 @@
         "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
       }
     ],
-    "bsc": [
-      {
-        "address": "0x7d26f09d4e2d032efa0729fc31a4c2db8a2394b1"
-      }
-    ],
-    "ethereum": [
+    "gnosis": [
       {
         "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
       }

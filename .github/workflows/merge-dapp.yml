@@ -21,10 +21,13 @@ jobs:
   merge:
     runs-on: ubuntu-latest
     name: Merge dApps assets lists
+    permissions:
+      contents: 'write'
     steps:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          token: ${{ secrets.CI_BOT_TOKEN }}
       - uses: coursier/cache-action@v6
       - uses: VirtusLab/scala-cli-setup@main
         with:

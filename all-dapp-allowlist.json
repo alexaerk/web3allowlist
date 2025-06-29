@@ -270,6 +270,15 @@
         ]
       },
       {
+        "name" : "Crosscurve",
+        "domain" : "app.crosscurve.fi",
+        "contracts" : [
+          {
+            "address" : "0xa2a786ff9148f7c88ee93372db8cbe9e94585c74"
+          }
+        ]
+      },
+      {
         "name" : "Curve",
         "domain" : "curve.fi",
         "contracts" : [
@@ -663,6 +672,27 @@
         ]
       },
       {
+        "name" : "Kleros",
+        "domain" : "escrow-v2.kleros.builders",
+        "contracts" : [
+          {
+            "address" : "0x79530e7bb3950a3a4b5a167816154715681f2f6c"
+          }
+        ]
+      },
+      {
+        "name" : "Kleros",
+        "domain" : "v2.kleros.builders",
+        "contracts" : [
+          {
+            "address" : "0xb5526d022962a1fff6ed32c93e8b714c901f4323"
+          },
+          {
+            "address" : "0x48e052b4a6dc4f30e90930f1ceaafd83b3981eb3"
+          }
+        ]
+      },
+      {
         "name" : "Krystal",
         "domain" : "defi.krystal.app",
         "contracts" : [
@@ -722,6 +752,15 @@
           },
           {
             "address" : "0x062ab0ef65eea9a68b0a35b7c946463b0169274a"
+          }
+        ]
+      },
+      {
+        "name" : "Lanca",
+        "domain" : "app.lanca.io",
+        "contracts" : [
+          {
+            "address" : "0xe6bba380d02bf8a4c8185ca95025206b6f1cf8c7"
           }
         ]
       },
@@ -791,6 +830,12 @@
           },
           {
             "address" : "0xbd96bca0d3a4fcc18dc44d333a7851c513772289"
+          },
+          {
+            "address" : "0x34cdce58cbdc6c54f2ac808a24561d0ab18ca8be"
+          },
+          {
+            "address" : "0xd0daa14d983a40b4c91f7b6875faa8d27f024e73"
           }
         ]
       },
@@ -809,6 +854,9 @@
         "contracts" : [
           {
             "address" : "0xf3f04555f8fda510bfc77820fd6eb8446f59e72d"
+          },
+          {
+            "address" : "0x337685fdab40d39bd02028545a4ffa7d287cc3e2"
           }
         ]
       },
@@ -872,6 +920,21 @@
         "contracts" : [
           {
             "address" : "0xfe6af84f2fa6f2c24c7afb05337f7c2527dd2709"
+          },
+          {
+            "address" : "0x2f5c25874302558299e955d29619c6f4b9a16610"
+          },
+          {
+            "address" : "0x11ad53000e1dc7071cab751e47f6c0687538e272"
+          }
+        ]
+      },
+      {
+        "name" : "Mintchain",
+        "domain" : "mintchain.io",
+        "contracts" : [
+          {
+            "address" : "0x0e83ded9f80e1c92549615d96842f5cb64a08762"
           }
         ]
       },
@@ -890,6 +953,15 @@
         "contracts" : [
           {
             "address" : "0xead050515e10fdb3540ccd6f8236c46790508a76"
+          }
+        ]
+      },
+      {
+        "name" : "Nfts2me",
+        "domain" : "nfts2me.com",
+        "contracts" : [
+          {
+            "address" : "0x00000000001594c61dd8a6804da9ab58ed2483ce"
           }
         ]
       },
@@ -926,6 +998,15 @@
         "contracts" : [
           {
             "address" : "0x4c60051384bd2d3c01bfc845cf5f4b44bcbe9de5"
+          },
+          {
+            "address" : "0xf75584ef6673ad213a685a1b58cc0330b8ea22cf"
+          },
+          {
+            "address" : "0x01d8edb8ef96119d6bada3f50463dee6fe863b4c"
+          },
+          {
+            "address" : "0x246475e1f63d8e26d6f4fb6029033da8831ed396"
           }
         ]
       },
@@ -971,6 +1052,15 @@
         "contracts" : [
           {
             "address" : "0xa669e7a0d4b3e4fa48af2de86bd4cd7126be4e13"
+          }
+        ]
+      },
+      {
+        "name" : "Owlto",
+        "domain" : "owlto.finance",
+        "contracts" : [
+          {
+            "address" : "0x983811d9b6bed77b36818cb58fe49d91e2d8be98"
           }
         ]
       },
@@ -1738,6 +1828,9 @@
           },
           {
             "address" : "0xcf3045a03f83adfbcba1f19cb2cf4e19075f8668"
+          },
+          {
+            "address" : "0x2825ce5921538d17cc15ae00a8b24ff759c6cdae"
           }
         ]
       },
@@ -1765,6 +1858,33 @@
         "contracts" : [
           {
             "address" : "0xbb00ff08d01d300023c629e8ffffcb65a5a578ce"
+          },
+          {
+            "address" : "0x00000075cd3dad5805699d0e1c5734e27b3264e3"
+          },
+          {
+            "address" : "0x655c406ebfa14ee2006250925e54ec43ad184f8b"
+          }
+        ]
+      },
+      {
+        "name" : "Apexdefi",
+        "domain" : "apexdefi.xyz",
+        "contracts" : [
+          {
+            "address" : "0x98b172a09102869add73116fc92a0a60bff4778f"
+          },
+          {
+            "address" : "0x754a0c42c35562ee7a41eb824d14bc1259820f01"
+          }
+        ]
+      },
+      {
+        "name" : "Baguette",
+        "domain" : "baguette.exchange",
+        "contracts" : [
+          {
+            "address" : "0xf7b1e993d1b4f7348d64aa55a294e4b74512f7f2"
           }
         ]
       },
@@ -1777,6 +1897,24 @@
           },
           {
             "address" : "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7"
+          }
+        ]
+      },
+      {
+        "name" : "Balmy",
+        "domain" : "app.balmy.xyz",
+        "contracts" : [
+          {
+            "address" : "0xed306e38bb930ec9646ff3d917b2e513a97530b1"
+          }
+        ]
+      },
+      {
+        "name" : "Bellum",
+        "domain" : "bellum.exchange",
+        "contracts" : [
+          {
+            "address" : "0x4274f80635183e9be3c16e1313a16f929b61e00e"
           }
         ]
       },
@@ -1799,11 +1937,35 @@
         ]
       },
       {
+        "name" : "Bsx",
+        "domain" : "app.bsx.exchange",
+        "contracts" : [
+          {
+            "address" : "0xce16f69375520ab01377ce7b88f5ba8c48f8d666"
+          }
+        ]
+      },
+      {
         "name" : "Bungee",
         "domain" : "bungee.exchange",
         "contracts" : [
           {
             "address" : "0x040993fbf458b95871cd2d73ee2e09f4af6d56bb"
+          }
+        ]
+      },
+      {
+        "name" : "Bungee",
+        "domain" : "new.bungee.exchange",
+        "contracts" : [
+          {
+            "address" : "0xf71ecefb88e4347def3c12685a3c6a438f7c171a"
+          },
+          {
+            "address" : "0xa97296b55cf7bbaf6cb2e3ddc233f020e19797e4"
+          },
+          {
+            "address" : "0xed69ed4bcdf4cd5e590f383853d73e93cc383681"
           }
         ]
       },
@@ -1831,6 +1993,24 @@
         "contracts" : [
           {
             "address" : "0xa2e7ab89a2c59818e1ecd925e718a9d63889a131"
+          }
+        ]
+      },
+      {
+        "name" : "Complusnetwork",
+        "domain" : "avadex.complusnetwork.com",
+        "contracts" : [
+          {
+            "address" : "0x78c18e6be20df11f1f41b9635f3a18b8ad82ddd1"
+          }
+        ]
+      },
+      {
+        "name" : "Crowdswap",
+        "domain" : "app.crowdswap.org",
+        "contracts" : [
+          {
+            "address" : "0x5ebd2ccfec1a7133cbe45de4d9e0a0ec3917524a"
           }
         ]
       },
@@ -1876,6 +2056,9 @@
         "contracts" : [
           {
             "address" : "0x663dc15d3c1ac63ff12e45ab68fea3f0a883c251"
+          },
+          {
+            "address" : "0x0000000000001ff3684f28c67538d4d072c22734"
           }
         ]
       },
@@ -1916,6 +2099,24 @@
         ]
       },
       {
+        "name" : "Diamondswap",
+        "domain" : "diamondswap.com",
+        "contracts" : [
+          {
+            "address" : "0xa4cbf1e40d8aaa011a667ae2082dde6b944e24bc"
+          }
+        ]
+      },
+      {
+        "name" : "Disperse",
+        "domain" : "disperse.app",
+        "contracts" : [
+          {
+            "address" : "0xd15fe25ed0dba12fe05e7029c88b10c25e8880e3"
+          }
+        ]
+      },
+      {
         "name" : "Dln",
         "domain" : "app.dln.trade",
         "contracts" : [
@@ -1952,6 +2153,15 @@
         ]
       },
       {
+        "name" : "Dzap",
+        "domain" : "app.dzap.io",
+        "contracts" : [
+          {
+            "address" : "0xf708e11a7c94abde8f6217b13e6fe39c8b9cc0a6"
+          }
+        ]
+      },
+      {
         "name" : "Element Market",
         "domain" : "element.market",
         "contracts" : [
@@ -1982,11 +2192,29 @@
         ]
       },
       {
+        "name" : "Eth",
+        "domain" : "2.horswap.eth.limo",
+        "contracts" : [
+          {
+            "address" : "0x3fc91a3afd70395cd496c647d5a6cc9d4b2b7fad"
+          }
+        ]
+      },
+      {
         "name" : "Firebird",
         "domain" : "app.firebird.finance",
         "contracts" : [
           {
             "address" : "0xe0c38b2a8d09aad53f1c67734b9a95e43d5981c0"
+          }
+        ]
+      },
+      {
+        "name" : "Flashliquidity",
+        "domain" : "app.flashliquidity.finance",
+        "contracts" : [
+          {
+            "address" : "0xaf5990f587f4e10ae0361f657712f9b1067e25b3"
           }
         ]
       },
@@ -2017,6 +2245,27 @@
           },
           {
             "address" : "0x7d2f62b6134e8b5676d17f5e988b3e48b4f50b70"
+          }
+        ]
+      },
+      {
+        "name" : "Ghostmarket",
+        "domain" : "ghostmarket.io",
+        "contracts" : [
+          {
+            "address" : "0x068bef92987d16ef682ff017b822ca1211401eaf"
+          }
+        ]
+      },
+      {
+        "name" : "Gmx",
+        "domain" : "app.gmx.io",
+        "contracts" : [
+          {
+            "address" : "0x820f5ffc5b525cd4d88cd91acf2c28f16530cc68"
+          },
+          {
+            "address" : "0xe37d052e1deb99901de205e7186e31a36e4ef70c"
           }
         ]
       },
@@ -2083,6 +2332,15 @@
         "contracts" : [
           {
             "address" : "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+          }
+        ]
+      },
+      {
+        "name" : "Kayakfinance",
+        "domain" : "kayakfinance.io",
+        "contracts" : [
+          {
+            "address" : "0xd195e49514d3785dbdf3d4685c2b8daf5dec0cd4"
           }
         ]
       },
@@ -2160,6 +2418,15 @@
       },
       {
         "name" : "Lanca",
+        "domain" : "app.lanca.io",
+        "contracts" : [
+          {
+            "address" : "0x0ae1b2730066ad46481ab0a5fd2b5893f8aba323"
+          }
+        ]
+      },
+      {
+        "name" : "Lanca",
         "domain" : "lanca.io",
         "contracts" : [
           {
@@ -2195,6 +2462,15 @@
         ]
       },
       {
+        "name" : "Lfj",
+        "domain" : "lfj.gg",
+        "contracts" : [
+          {
+            "address" : "0x45a62b090df48243f12a21897e7ed91863e2c86b"
+          }
+        ]
+      },
+      {
         "name" : "Magpiefi",
         "domain" : "app.magpiefi.xyz",
         "contracts" : [
@@ -2203,6 +2479,12 @@
           },
           {
             "address" : "0x1f030e4f3302670794f355afc0d30f4ae30641a0"
+          },
+          {
+            "address" : "0x34cdce58cbdc6c54f2ac808a24561d0ab18ca8be"
+          },
+          {
+            "address" : "0xf25075d95b5945bcff394588db3df8b1cacfccf6"
           }
         ]
       },
@@ -2224,6 +2506,9 @@
         "contracts" : [
           {
             "address" : "0xf3f04555f8fda510bfc77820fd6eb8446f59e72d"
+          },
+          {
+            "address" : "0x337685fdab40d39bd02028545a4ffa7d287cc3e2"
           }
         ]
       },
@@ -2288,6 +2573,15 @@
         ]
       },
       {
+        "name" : "Nereus",
+        "domain" : "app.nereus.finance",
+        "contracts" : [
+          {
+            "address" : "0xcf9477a5e24c0c42122bfa9a06e02ebbb5b2b0fd"
+          }
+        ]
+      },
+      {
         "name" : "Nfts2me",
         "domain" : "nfts2me.com",
         "contracts" : [
@@ -2320,6 +2614,12 @@
         "contracts" : [
           {
             "address" : "0x1dac23e41fc8ce857e86fd8c1ae5b6121c67d96d"
+          },
+          {
+            "address" : "0xf956d9fa19656d8e5219fd6fa8ba6cb198094138"
+          },
+          {
+            "address" : "0xa7fd99748ce527eadc0bdac60cba8a4ef4090f7c"
           }
         ]
       },
@@ -2372,6 +2672,15 @@
         ]
       },
       {
+        "name" : "Owlto",
+        "domain" : "owlto.finance",
+        "contracts" : [
+          {
+            "address" : "0x05c4c16f7aaf68efca9b32f5e6ae260fa2c26b2c"
+          }
+        ]
+      },
+      {
         "name" : "Pangolin",
         "domain" : "app.pangolin.exchange",
         "contracts" : [
@@ -2401,6 +2710,27 @@
           },
           {
             "address" : "0xaaa78e8c4241990b4ce159e105da08129345946a"
+          },
+          {
+            "address" : "0x22c81c051a134c81ce370d82fa26975ae9d100b4"
+          }
+        ]
+      },
+      {
+        "name" : "Plexus",
+        "domain" : "plexus.app",
+        "contracts" : [
+          {
+            "address" : "0x80ae06757c1e467425fd25bb85d8b51d977f50bf"
+          }
+        ]
+      },
+      {
+        "name" : "Poolside",
+        "domain" : "app.poolside.party",
+        "contracts" : [
+          {
+            "address" : "0x44e7061f723ff38c501d6334b23337dad87187f4"
           }
         ]
       },
@@ -2419,6 +2749,15 @@
         "contracts" : [
           {
             "address" : "0x1f9bd6986d0cdcde9fbbe87d142f3dc4ddca1fd9"
+          }
+        ]
+      },
+      {
+        "name" : "Pyreswap",
+        "domain" : "pyreswap.finance",
+        "contracts" : [
+          {
+            "address" : "0x29cf2367f188951e8a33b2424b7cef75c3a38fa8"
           }
         ]
       },
@@ -2450,11 +2789,32 @@
         ]
       },
       {
+        "name" : "Rocketx",
+        "domain" : "app.rocketx.exchange",
+        "contracts" : [
+          {
+            "address" : "0x69460570c93f9de5e2edbc3052bf10125f0ca22d"
+          },
+          {
+            "address" : "0x663dc15d3c1ac63ff12e45ab68fea3f0a883c251"
+          }
+        ]
+      },
+      {
         "name" : "Routernitro",
         "domain" : "app.routernitro.com",
         "contracts" : [
           {
             "address" : "0x4406ebeb7028fc0fc06bb7706a736ac6ada8d2bf"
+          }
+        ]
+      },
+      {
+        "name" : "Routernitro",
+        "domain" : "routernitro.com",
+        "contracts" : [
+          {
+            "address" : "0x30b8eb0eeb0b4e3927b78e45327278c05bf24775"
           }
         ]
       },
@@ -2494,6 +2854,24 @@
         "contracts" : [
           {
             "address" : "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+          }
+        ]
+      },
+      {
+        "name" : "Skip",
+        "domain" : "go.skip.build",
+        "contracts" : [
+          {
+            "address" : "0xbb00ff08d01d300023c629e8ffffcb65a5a578ce"
+          }
+        ]
+      },
+      {
+        "name" : "Soulswap",
+        "domain" : "exchange.soulswap.finance",
+        "contracts" : [
+          {
+            "address" : "0xa4594460a9d3d41e8b85542d34e23adabc3c86ef"
           }
         ]
       },
@@ -2563,6 +2941,9 @@
           },
           {
             "address" : "0x804b526e5bf4349819fe2db65349d0825870f8ee"
+          },
+          {
+            "address" : "0xac4c6e212a361c968f1725b4d055b47e63f80b75"
           }
         ]
       },
@@ -2624,6 +3005,18 @@
         ]
       },
       {
+        "name" : "Tokenmill",
+        "domain" : "tokenmill.xyz",
+        "contracts" : [
+          {
+            "address" : "0x501ee2d4aa611c906f785e10cc868e145183fce4"
+          },
+          {
+            "address" : "0x1b1f2bfc5e551b955f2a3f973876cee917fb4d05"
+          }
+        ]
+      },
+      {
         "name" : "Traderjoexyz",
         "domain" : "traderjoexyz.com",
         "contracts" : [
@@ -2644,6 +3037,15 @@
         "contracts" : [
           {
             "address" : "0x07964f135f276412b3182a3b2407b8dd45000000"
+          }
+        ]
+      },
+      {
+        "name" : "Trebleswap",
+        "domain" : "app.trebleswap.com",
+        "contracts" : [
+          {
+            "address" : "0xce16f69375520ab01377ce7b88f5ba8c48f8d666"
           }
         ]
       },
@@ -2705,6 +3107,15 @@
         ]
       },
       {
+        "name" : "Virtuals",
+        "domain" : "app.virtuals.io",
+        "contracts" : [
+          {
+            "address" : "0xf956d9fa19656d8e5219fd6fa8ba6cb198094138"
+          }
+        ]
+      },
+      {
         "name" : "Wombat",
         "domain" : "app.wombat.exchange",
         "contracts" : [
@@ -2726,6 +3137,15 @@
         ]
       },
       {
+        "name" : "Wowswap",
+        "domain" : "wowswap.io",
+        "contracts" : [
+          {
+            "address" : "0xf527f88ae8c070cd57313f1bab51c59ece672072"
+          }
+        ]
+      },
+      {
         "name" : "Xswap",
         "domain" : "xswap.link",
         "contracts" : [
@@ -2740,6 +3160,12 @@
         "contracts" : [
           {
             "address" : "0x2c86f0ff75673d489b7d72d9986929a2b0ed596c"
+          },
+          {
+            "address" : "0xcf446713ddf0e83f7527a260047f8ae89efae3e5"
+          },
+          {
+            "address" : "0x66603051bcd56ec1237146159f528d0871e1525f"
           }
         ]
       },
@@ -2761,6 +3187,15 @@
           },
           {
             "address" : "0x3a23f943181408eac424116af7b7790c94cb97a5"
+          }
+        ]
+      },
+      {
+        "name" : "Zcx",
+        "domain" : "zcx.com",
+        "contracts" : [
+          {
+            "address" : "0xef58b643240178c2bc37681f8d4e50d7ec37ee22"
           }
         ]
       },
@@ -2811,6 +3246,12 @@
           },
           {
             "address" : "0xa238dd80c259a72e81d7e4664a9801593f98d1c5"
+          },
+          {
+            "address" : "0x729b3ea8c005abc58c9150fb57ec161296f06766"
+          },
+          {
+            "address" : "0xa0d9c1e9e48ca30c8d8c3b5d69ff5dc1f6dffc24"
           }
         ]
       },
@@ -2838,6 +3279,12 @@
           },
           {
             "address" : "0x227f65131a261548b057215bb1d5ab2997964c7d"
+          },
+          {
+            "address" : "0x120f509dd0dcb8f5173bf129461991112fda901b"
+          },
+          {
+            "address" : "0xc88349db255d6d000825cf52ff827c8db81be326"
           }
         ]
       },
@@ -2862,6 +3309,9 @@
           },
           {
             "address" : "0x52eaecac2402633d98b95213d0b473e069d86590"
+          },
+          {
+            "address" : "0x0d6e297a73016b437caae65bfe32c59803b215d0"
           }
         ]
       },
@@ -2875,6 +3325,24 @@
         ]
       },
       {
+        "name" : "Anglez",
+        "domain" : "anglez.xyz",
+        "contracts" : [
+          {
+            "address" : "0x2f8c2a675962ecb07505684eea496d02d5a9124a"
+          }
+        ]
+      },
+      {
+        "name" : "Ape",
+        "domain" : "ape.store",
+        "contracts" : [
+          {
+            "address" : "0xc750af290bb41ca5dec04f22cd1318e940dd826a"
+          }
+        ]
+      },
+      {
         "name" : "Aperture",
         "domain" : "app.aperture.finance",
         "contracts" : [
@@ -2883,6 +3351,84 @@
           },
           {
             "address" : "0x00000000edb4489cb49fe07246f39345c9f838cd"
+          },
+          {
+            "address" : "0x000000ca99cf8e1e53b4b7999180db3e1d032333"
+          },
+          {
+            "address" : "0x000000c51119e2bde2419c5e6fd273a81b79a8e3"
+          }
+        ]
+      },
+      {
+        "name" : "Asciicast",
+        "domain" : "asciicast.com",
+        "contracts" : [
+          {
+            "address" : "0x837969d05cb1c8108356bc49e58e568c2698d90c"
+          }
+        ]
+      },
+      {
+        "name" : "Avantisfi",
+        "domain" : "avantisfi.com",
+        "contracts" : [
+          {
+            "address" : "0x6914110efe4e61cfa0f28de5f6606baa33d21693"
+          },
+          {
+            "address" : "0x83084cb182162473d6feffcd3aa48ba55a7b66f7"
+          },
+          {
+            "address" : "0x944766f715b51967e56afde5f0aa76ceacc9e7f9"
+          },
+          {
+            "address" : "0x5ff292d70ba9cd9e7ccb313782811b3d7120535f"
+          },
+          {
+            "address" : "0x0000000000001ff3684f28c67538d4d072c22734"
+          }
+        ]
+      },
+      {
+        "name" : "Baes",
+        "domain" : "app.baes.so",
+        "contracts" : [
+          {
+            "address" : "0xb13655501ae155d2776e0069ee7b3ccf62308bcd"
+          },
+          {
+            "address" : "0x50b96f0808ff619affb8404ba83d7e712a21d57f"
+          },
+          {
+            "address" : "0x5876236942a5fb47cfa64d96e1792ae1426d09e5"
+          },
+          {
+            "address" : "0xb86932028bc6911303a7759aa34546675205717f"
+          },
+          {
+            "address" : "0xd7d7e5961d25c01fa1b7528869b228181d895000"
+          },
+          {
+            "address" : "0xdd896b710cc6a9bb69ea854db40e3565c373cbcb"
+          },
+          {
+            "address" : "0x07a56f0937192285e74abdd916c8ef7b311d1767"
+          },
+          {
+            "address" : "0xb16823c7aabc548b657087b76ef053a0f187269a"
+          },
+          {
+            "address" : "0x2b2e03ba6aa8d0f0129c8c7c192ce7a9bbb1f852"
+          },
+          {
+            "address" : "0x791978cf8d39866765f7a34ceb33114f2b862a17"
+          },
+          {
+            "address" : "0xd19dc8f69d0be79fa488f8ee72dcc46e1267da50"
+          },
+          {
+            "address" : "0x4bc14685708a803b36de324ad1ca1c7786400efc"
           }
         ]
       },
@@ -2892,6 +3438,15 @@
         "contracts" : [
           {
             "address" : "0xba12222222228d8ba445958a75a0704d566bf2c8"
+          }
+        ]
+      },
+      {
+        "name" : "Balmy",
+        "domain" : "app.balmy.xyz",
+        "contracts" : [
+          {
+            "address" : "0xed306e38bb930ec9646ff3d917b2e513a97530b1"
           }
         ]
       },
@@ -2914,6 +3469,24 @@
         ]
       },
       {
+        "name" : "Basecolors",
+        "domain" : "basecolors.com",
+        "contracts" : [
+          {
+            "address" : "0x7bc1c072742d8391817eb4eb2317f98dc72c61db"
+          }
+        ]
+      },
+      {
+        "name" : "Based",
+        "domain" : "app.based.gift",
+        "contracts" : [
+          {
+            "address" : "0xe52a9cecdce5e66e283d355491c12166c3ad6d7d"
+          }
+        ]
+      },
+      {
         "name" : "Basedevo",
         "domain" : "basedevo.fun",
         "contracts" : [
@@ -2923,11 +3496,41 @@
         ]
       },
       {
+        "name" : "Basepaint",
+        "domain" : "basepaint.xyz",
+        "contracts" : [
+          {
+            "address" : "0xaff1a9e200000061fc3283455d8b0c7e3e728161"
+          }
+        ]
+      },
+      {
         "name" : "Baseswap",
         "domain" : "baseswap.fi",
         "contracts" : [
           {
             "address" : "0x19ceead7105607cd444f5ad10dd51356436095a1"
+          }
+        ]
+      },
+      {
+        "name" : "Beefy",
+        "domain" : "app.beefy.com",
+        "contracts" : [
+          {
+            "address" : "0x0827a181c868142dc92cc94715f7b79d763ebb21"
+          },
+          {
+            "address" : "0xa3d7c94ce8fd211902343c3f92e307077ea88506"
+          }
+        ]
+      },
+      {
+        "name" : "Bmx",
+        "domain" : "classic.bmx.trade",
+        "contracts" : [
+          {
+            "address" : "0x6456039168d3fe3bc5fcd9e46f3b716c1abd4ff4"
           }
         ]
       },
@@ -2961,6 +3564,9 @@
         "contracts" : [
           {
             "address" : "0x26a54955a5fb9472d3edfeac9b8e4c0ab5779ed3"
+          },
+          {
+            "address" : "0x81a97f03971261940d159d5d08788f8280b30da7"
           }
         ]
       },
@@ -2973,6 +3579,30 @@
           },
           {
             "address" : "0xe8c5b8488feafb5df316be73ede3bdc26571a773"
+          }
+        ]
+      },
+      {
+        "name" : "Bungee",
+        "domain" : "new.bungee.exchange",
+        "contracts" : [
+          {
+            "address" : "0xec26f64d0bbe1ecd417be50e6b99769ab17d114b"
+          },
+          {
+            "address" : "0x32c8c3120ef08e5b44b57e8c4f001de1f2baacc3"
+          },
+          {
+            "address" : "0x3c54883ce0d86b3abb26a63744beb853ea99a403"
+          }
+        ]
+      },
+      {
+        "name" : "Butterswap",
+        "domain" : "butterswap.io",
+        "contracts" : [
+          {
+            "address" : "0xee030ec6f4307411607e55acd08e628ae6655b86"
           }
         ]
       },
@@ -3000,6 +3630,12 @@
         "contracts" : [
           {
             "address" : "0x9c4ec768c28520b50860ea7a15bd7213a9ff58bf"
+          },
+          {
+            "address" : "0xb125e6687d4313864e53df431d5425969c15eb2f"
+          },
+          {
+            "address" : "0x784efeb622244d2348d4f2522f8860b96fbece89"
           }
         ]
       },
@@ -3031,6 +3667,33 @@
         ]
       },
       {
+        "name" : "Cow",
+        "domain" : "swap.cow.fi",
+        "contracts" : [
+          {
+            "address" : "0x3d1b389f1707db3d4c5344d5669dbda6b5d6ab51"
+          }
+        ]
+      },
+      {
+        "name" : "Crate",
+        "domain" : "crate.place",
+        "contracts" : [
+          {
+            "address" : "0xe8460a7f9dfcebefbf195d404c8456a891cd9990"
+          }
+        ]
+      },
+      {
+        "name" : "Crosscurve",
+        "domain" : "app.crosscurve.fi",
+        "contracts" : [
+          {
+            "address" : "0xa2a786ff9148f7c88ee93372db8cbe9e94585c74"
+          }
+        ]
+      },
+      {
         "name" : "Curve",
         "domain" : "curve.fi",
         "contracts" : [
@@ -3055,6 +3718,21 @@
         ]
       },
       {
+        "name" : "Dapdap",
+        "domain" : "app.dapdap.net",
+        "contracts" : [
+          {
+            "address" : "0x0389879e0156033202c44bf784ac18fc02edee4f"
+          },
+          {
+            "address" : "0x69460570c93f9de5e2edbc3052bf10125f0ca22d"
+          },
+          {
+            "address" : "0x3335733c454805df6a77f825f266e136fb4a3333"
+          }
+        ]
+      },
+      {
         "name" : "De",
         "domain" : "de.fi",
         "contracts" : [
@@ -3069,6 +3747,9 @@
         "contracts" : [
           {
             "address" : "0xef4fb24ad0916217251f553c0596f8edc630eb66"
+          },
+          {
+            "address" : "0x0000000000001ff3684f28c67538d4d072c22734"
           }
         ]
       },
@@ -3124,11 +3805,29 @@
         ]
       },
       {
+        "name" : "Derive",
+        "domain" : "derive.xyz",
+        "contracts" : [
+          {
+            "address" : "0x9628bba16db41ea7fe1fd84f9ce53bc27c63f59b"
+          }
+        ]
+      },
+      {
         "name" : "Derpdex",
         "domain" : "app.derpdex.com",
         "contracts" : [
           {
             "address" : "0x6acd0ec9405ccb701c57a88849c4f1cd85a3f3ab"
+          }
+        ]
+      },
+      {
+        "name" : "Dexilla",
+        "domain" : "dexilla.com",
+        "contracts" : [
+          {
+            "address" : "0x3f7f51983fb95084a5cb73eb2f28757bd8bb65e3"
           }
         ]
       },
@@ -3165,6 +3864,18 @@
         "contracts" : [
           {
             "address" : "0x987bfbe33c9cf18caa665b792db66339a9c16d32"
+          },
+          {
+            "address" : "0x8b09db11ea380d6454d2592d334ffc319ce6ef3e"
+          }
+        ]
+      },
+      {
+        "name" : "Dzap",
+        "domain" : "app.dzap.io",
+        "contracts" : [
+          {
+            "address" : "0xf708e11a7c94abde8f6217b13e6fe39c8b9cc0a6"
           }
         ]
       },
@@ -3174,6 +3885,9 @@
         "contracts" : [
           {
             "address" : "0xa39a5f160a1952ddf38781bd76e402b0006912a9"
+          },
+          {
+            "address" : "0x000000009ca83fc2e014b149fe7530174de0d938"
           }
         ]
       },
@@ -3229,6 +3943,135 @@
         ]
       },
       {
+        "name" : "Foundation",
+        "domain" : "foundation.app",
+        "contracts" : [
+          {
+            "address" : "0xf1814213a5ef856aaa1fdb0f7f375569168d8e73"
+          },
+          {
+            "address" : "0x62037b26fff91929655aa3a060f327b47d1e2b3e"
+          },
+          {
+            "address" : "0x7b503e206db34148ad77e00afe214034edf9e3ff"
+          }
+        ]
+      },
+      {
+        "name" : "Foundnone",
+        "domain" : "nebula.foundnone.xyz",
+        "contracts" : [
+          {
+            "address" : "0x3e444cec9f1b42a9dd9485cb435b033f0159f4d1"
+          }
+        ]
+      },
+      {
+        "name" : "Freee",
+        "domain" : "freee.xyz",
+        "contracts" : [
+          {
+            "address" : "0xed5b1f08a7f17aa351d9dda9ab89efb97fc30be1"
+          },
+          {
+            "address" : "0x175da349305cec075ce75a3b3cfe342d395c5601"
+          },
+          {
+            "address" : "0x4d39479c7346447970d29ff3c3aa3d0f08e99ea9"
+          },
+          {
+            "address" : "0x1f8ea6292ea42d381cf8439347ad70bf2b47c7b5"
+          },
+          {
+            "address" : "0xd91a7df66bc1617629b72d23f4c84427b02f4d42"
+          },
+          {
+            "address" : "0x3d1c5f15407d011910b5c593524cf458f583e05b"
+          },
+          {
+            "address" : "0x849858b636176e62bfda83d3b2eeb0e48d07a9e4"
+          },
+          {
+            "address" : "0x2cd746f4a22867776576a18daeae43d8134b6153"
+          },
+          {
+            "address" : "0xea4120afc17f75f21dc82b15669f749af92034ad"
+          },
+          {
+            "address" : "0x795b2e70142409337a45678f56cba3fe9f550d08"
+          },
+          {
+            "address" : "0xd411af8105db611ae717d7b42aa1985b48575f67"
+          },
+          {
+            "address" : "0x580385970bdc973db48fad7c777551ea33aefa97"
+          },
+          {
+            "address" : "0xdf1f34a041aa0bd0948c318f8f4998187fde9347"
+          },
+          {
+            "address" : "0x9b2613aba5a90a9440845c7f6365e320ade50445"
+          },
+          {
+            "address" : "0x8ed464be2638d16b634bdf6e6b366a6dabc994df"
+          },
+          {
+            "address" : "0x16ff3cc5fb11dee9eaafda25ef84fcdcbf6bfe36"
+          },
+          {
+            "address" : "0x86233ba896da61477f8483ac49cbe38831844c7a"
+          },
+          {
+            "address" : "0xefb648697e906c633fbe483395441fae5013c45f"
+          },
+          {
+            "address" : "0xd9111de77c117dff7316641cbb931577622f28dc"
+          },
+          {
+            "address" : "0xc5e017fcc9fdbbac45f000dcc0460a055568d3ba"
+          },
+          {
+            "address" : "0xc0797c1ec558d458a8a7cd8172f8d813dfaae37f"
+          },
+          {
+            "address" : "0x96c5a58c777449f6bcc70550d897fc0416a4762f"
+          },
+          {
+            "address" : "0x8b3ec59657cd8573c977ba0e5bf6eb8ac0092370"
+          },
+          {
+            "address" : "0xf6d959a0281c6906b0d973b9f85ddffa950ec69f"
+          },
+          {
+            "address" : "0x579ee1a5e7f509b4525d2f8ff2dba055d271a1d4"
+          },
+          {
+            "address" : "0x889d9c03e22b5667f6672b250485032140aade94"
+          },
+          {
+            "address" : "0xf28887f575e1009c7794ac98dca9f65314edc0a8"
+          },
+          {
+            "address" : "0x89f0c5b58970e9d8098af4ad353d57b016936564"
+          },
+          {
+            "address" : "0xcc7d0d12b2789cef7ded0bb9a024ff2f79a2bdf3"
+          },
+          {
+            "address" : "0x6daf2f8e97541ce30da555fb32bd6b7070a8dedc"
+          },
+          {
+            "address" : "0xa26059b1bc4517984ad6f5f0b439ebbb4331418b"
+          },
+          {
+            "address" : "0xe1d14b4646edc2426068e00b2de6922e904138bb"
+          },
+          {
+            "address" : "0xe7552085906f9ada7137597506d8c2fbfccc2e02"
+          }
+        ]
+      },
+      {
         "name" : "Frenpet",
         "domain" : "frenpet.xyz",
         "contracts" : [
@@ -3243,6 +4086,42 @@
         "contracts" : [
           {
             "address" : "0x26da582889f59eaae9da1f063be0140cd93e6a4f"
+          }
+        ]
+      },
+      {
+        "name" : "Ham",
+        "domain" : "ham.fun",
+        "contracts" : [
+          {
+            "address" : "0x0929222bc7cc533aecc1ccfe9d9bd6ecbb0cbf43"
+          }
+        ]
+      },
+      {
+        "name" : "Highlight",
+        "domain" : "highlight.xyz",
+        "contracts" : [
+          {
+            "address" : "0x1e67e1632a6a53e0cb37987792cf16fe55df84d0"
+          },
+          {
+            "address" : "0x8087039152c472fa74f47398628ff002994056ea"
+          },
+          {
+            "address" : "0xa1bea5fe917450041748dbbbe7e9ac57a4bbebab"
+          }
+        ]
+      },
+      {
+        "name" : "Hipposwap",
+        "domain" : "hipposwap.finance",
+        "contracts" : [
+          {
+            "address" : "0x36b356187ba614ee19bf79a080cac9c0a12c9206"
+          },
+          {
+            "address" : "0x90f1ef9d2cde204c8494cf73130771b350070b53"
           }
         ]
       },
@@ -3265,6 +4144,39 @@
         ]
       },
       {
+        "name" : "Impermax",
+        "domain" : "base.impermax.finance",
+        "contracts" : [
+          {
+            "address" : "0x1ebc3b5911b99adde07944c75d9e03958abdb49f"
+          },
+          {
+            "address" : "0x21d9d4d17255d427a5f77d23fb9eb3c5cd281ebf"
+          },
+          {
+            "address" : "0xc5d6cb2205349cc94684e7acf012751344bc58f7"
+          },
+          {
+            "address" : "0x1201055a23252604a859c7211ee3469da46e6c5d"
+          },
+          {
+            "address" : "0x965c3f8dc3aa446b268ab3bca4d7e82b788ffe96"
+          }
+        ]
+      },
+      {
+        "name" : "Instadapp",
+        "domain" : "fluid.instadapp.io",
+        "contracts" : [
+          {
+            "address" : "0x9272d6153133175175bc276512b2336be3931ce9"
+          },
+          {
+            "address" : "0xf42f5795d9ac7e9d757db633d693cd548cfd9169"
+          }
+        ]
+      },
+      {
         "name" : "Intentx",
         "domain" : "app.intentx.io",
         "contracts" : [
@@ -3279,6 +4191,12 @@
         "contracts" : [
           {
             "address" : "0x7b2e3fc7510d1a51b3bef735f985446589219354"
+          },
+          {
+            "address" : "0x809e02be51e6c01e626b252021eac254b5374b99"
+          },
+          {
+            "address" : "0x328de900860816d29d1367f6903a24d8ed40c997"
           }
         ]
       },
@@ -3288,6 +4206,9 @@
         "contracts" : [
           {
             "address" : "0x02f55d53dce23b4aa962cc68b0f685f26143bdb2"
+          },
+          {
+            "address" : "0xc0ac932cac7b4d8f7c31792082e2e8f3cfe99c10"
           }
         ]
       },
@@ -3301,11 +4222,41 @@
         ]
       },
       {
+        "name" : "Kaito",
+        "domain" : "claim.kaito.ai",
+        "contracts" : [
+          {
+            "address" : "0xeb7d383b0c77ea0bed28b42d0c288f9071bd8a7a"
+          }
+        ]
+      },
+      {
         "name" : "Kelpdao",
         "domain" : "kelpdao.xyz",
         "contracts" : [
           {
             "address" : "0x291088312150482826b3a37d5a69a4c54daa9118"
+          }
+        ]
+      },
+      {
+        "name" : "Kiloex",
+        "domain" : "app.kiloex.io",
+        "contracts" : [
+          {
+            "address" : "0x796f1793599d7b6aca6a87516546ddf8e5f3aa9d"
+          },
+          {
+            "address" : "0xdf5acc616cd3ea9556ec340a11b54859a393ebbb"
+          }
+        ]
+      },
+      {
+        "name" : "Kim",
+        "domain" : "app.kim.exchange",
+        "contracts" : [
+          {
+            "address" : "0x44447789719a1fae137b385fb7326cdcd3f49c49"
           }
         ]
       },
@@ -3321,6 +4272,27 @@
           },
           {
             "address" : "0x6fd481970744f9bc0044a81859fd92431a2dd67d"
+          }
+        ]
+      },
+      {
+        "name" : "L2marathon",
+        "domain" : "l2marathon.com",
+        "contracts" : [
+          {
+            "address" : "0x29d24b2ac84e51f842fb8c1533cd972eb83c65ce"
+          },
+          {
+            "address" : "0x5137eedb91a5f2cc68e86dca15ad5c2b541654f8"
+          },
+          {
+            "address" : "0xc24b421b5608157ddc9a8dc8c6024cb852931f33"
+          },
+          {
+            "address" : "0xdad329378a7c0b81e5a846e1fe16c76513b58972"
+          },
+          {
+            "address" : "0xf4dc475961095021a0fbfb17d336a6f0f13863af"
           }
         ]
       },
@@ -3363,6 +4335,15 @@
           },
           {
             "address" : "0x03c88ac561e8813849be909f39bd311c699baead"
+          }
+        ]
+      },
+      {
+        "name" : "Lanca",
+        "domain" : "app.lanca.io",
+        "contracts" : [
+          {
+            "address" : "0x164c20a4e11cbe0d8b5e23f5ee35675890be280d"
           }
         ]
       },
@@ -3426,6 +4407,21 @@
           },
           {
             "address" : "0xba7bac71a8ee550d89b827fe6d67bc3dca07b104"
+          },
+          {
+            "address" : "0x6c9b3a74ae4779da5ca999371ee8950e8db3407f"
+          },
+          {
+            "address" : "0xef42f78d25f4c681dcad2597fa04877ff802ef4b"
+          }
+        ]
+      },
+      {
+        "name" : "Matcha",
+        "domain" : "matcha.xyz",
+        "contracts" : [
+          {
+            "address" : "0xbc3c5ca50b6a215edf00815965485527f26f5da8"
           }
         ]
       },
@@ -3435,6 +4431,18 @@
         "contracts" : [
           {
             "address" : "0x32aed3bce901da12ca8489788f3a99fce1056e14"
+          }
+        ]
+      },
+      {
+        "name" : "Mayan",
+        "domain" : "swap.mayan.finance",
+        "contracts" : [
+          {
+            "address" : "0x0654874eb7f59c6f5b39931fc45dc45337c967c3"
+          },
+          {
+            "address" : "0x337685fdab40d39bd02028545a4ffa7d287cc3e2"
           }
         ]
       },
@@ -3474,6 +4482,9 @@
         "contracts" : [
           {
             "address" : "0xfe6af84f2fa6f2c24c7afb05337f7c2527dd2709"
+          },
+          {
+            "address" : "0x3004910cf9f2bf4bbc8506f9a3a84e2c02871633"
           }
         ]
       },
@@ -3487,6 +4498,54 @@
         ]
       },
       {
+        "name" : "Mint.fun",
+        "domain" : "mint.fun",
+        "contracts" : [
+          {
+            "address" : "0xd4c25ba48fd3032078daad4fe0f349f9fbe7af8e"
+          },
+          {
+            "address" : "0xed5b1f08a7f17aa351d9dda9ab89efb97fc30be1"
+          },
+          {
+            "address" : "0x080b00a2dd9bbd5c72a13dd4eab66583e46535ad"
+          },
+          {
+            "address" : "0x175da349305cec075ce75a3b3cfe342d395c5601"
+          },
+          {
+            "address" : "0x4319b477e7c02a80af3bfed922e35533dee18714"
+          },
+          {
+            "address" : "0xcc72cc02397a1c0c61952f2884331261e004bb4a"
+          },
+          {
+            "address" : "0x00005ea00ac477b1030ce78506496e8c2de24bf5"
+          },
+          {
+            "address" : "0x26bbea7803dcac346d5f5f135b57cf2c752a02be"
+          },
+          {
+            "address" : "0x1ee14980a60481dff6299896ddb50b4edec8824e"
+          },
+          {
+            "address" : "0x92099615d1c6f3330a969f6422bed35b83f3e254"
+          },
+          {
+            "address" : "0x39070d11b26bc6dc1b2ac4fbc8c346e8098b4549"
+          }
+        ]
+      },
+      {
+        "name" : "Mintchain",
+        "domain" : "mintchain.io",
+        "contracts" : [
+          {
+            "address" : "0xb5cedaf172425bdea4c186f6fcf30b367273da19"
+          }
+        ]
+      },
+      {
         "name" : "Moonwell",
         "domain" : "moonwell.fi",
         "contracts" : [
@@ -3495,6 +4554,24 @@
           },
           {
             "address" : "0x123f3167a416ca19365de03a65e0af3532af7223"
+          }
+        ]
+      },
+      {
+        "name" : "Nfts2me",
+        "domain" : "nfts2me.com",
+        "contracts" : [
+          {
+            "address" : "0x00000000001594c61dd8a6804da9ab58ed2483ce"
+          }
+        ]
+      },
+      {
+        "name" : "Nouns",
+        "domain" : "nouns.build",
+        "contracts" : [
+          {
+            "address" : "0x599f3724129ab678986a948a63ecb42fcc873a43"
           }
         ]
       },
@@ -3513,6 +4590,18 @@
         "contracts" : [
           {
             "address" : "0xec8b0f7ffe3ae75d7ffab09429e3675bb63503e4"
+          },
+          {
+            "address" : "0x6b2c0c7be2048daa9b5527982c29f48062b34d58"
+          },
+          {
+            "address" : "0x80eba3855878739f4710233a8a19d89bdd2ffb8e"
+          },
+          {
+            "address" : "0xbc3c5ca50b6a215edf00815965485527f26f5da8"
+          },
+          {
+            "address" : "0x610d4dfac3ec32e0be98d18ddb280dacd76a1889"
           }
         ]
       },
@@ -3522,6 +4611,174 @@
         "contracts" : [
           {
             "address" : "0x6b2c0c7be2048daa9b5527982c29f48062b34d58"
+          },
+          {
+            "address" : "0x5965851f21dae82ea7c62f87fb7c57172e9f2add"
+          }
+        ]
+      },
+      {
+        "name" : "Omnihub",
+        "domain" : "lz.omnihub.xyz",
+        "contracts" : [
+          {
+            "address" : "0xcabf0b8cc4e81c505756e7e420b775a737478d74"
+          }
+        ]
+      },
+      {
+        "name" : "Omnihub",
+        "domain" : "omnihub.xyz",
+        "contracts" : [
+          {
+            "address" : "0x94afee2655db1bfca82e72082a3f14b3e411da26"
+          },
+          {
+            "address" : "0x8a8a77469b2af43f0f000a71d4906bd3faf0e902"
+          },
+          {
+            "address" : "0x38aebd5ad1b71374cc59f5f1271c29e3cfb62caa"
+          },
+          {
+            "address" : "0x4d3144b5a428abf390b9adfee4b9ebfb934e7788"
+          },
+          {
+            "address" : "0x777d15db625635b1df1c8caec5c815ffebf1537b"
+          },
+          {
+            "address" : "0x8885ab8d47cfc133d825cae4fc52cd40a4caec62"
+          },
+          {
+            "address" : "0x201f514bdc5ea6660f3e3ab0e883b5654809d7d5"
+          },
+          {
+            "address" : "0xf8066ee31e2536e882fafd3ae839b60b7a253d4e"
+          },
+          {
+            "address" : "0x853165a00301156edeed0aed123e499da05e5ae0"
+          },
+          {
+            "address" : "0x0432366da3c432d79438c2019c2140ccb5024588"
+          },
+          {
+            "address" : "0x636f287852bdf11f6f7aa1a56427495c2f4aa515"
+          },
+          {
+            "address" : "0xda4dda9e43132bed7c7caa8102183a610af594f2"
+          },
+          {
+            "address" : "0x84820462ebe4d66b37337b8254fe7a978123dfde"
+          },
+          {
+            "address" : "0x702fb9720df2259712503c2316db26d8ff78e572"
+          },
+          {
+            "address" : "0xfafbf5959e8939fcfa15db1afbe448c70730cc4e"
+          },
+          {
+            "address" : "0x46d6683f82c34e759a6de7a7913430dd6ab64b26"
+          },
+          {
+            "address" : "0x11b62c5546b33419cc03888090344248911fab3f"
+          },
+          {
+            "address" : "0x643327c063306111949170f657dbb170b2724f99"
+          },
+          {
+            "address" : "0xc8ebd3951862b3eabe20d384b06dfd1a0fd3734d"
+          },
+          {
+            "address" : "0x1088dac74caedfb71ece07a95a37a4a9a4c88812"
+          },
+          {
+            "address" : "0xbbd625ffa0f5a8fe4d914a036e9c87f3bbdcafd9"
+          },
+          {
+            "address" : "0xb2a58ea12ee19ec6e2dc5ef220ae428c72f25c8a"
+          },
+          {
+            "address" : "0x7dece93b907718d725ad910edd1a753484a33930"
+          },
+          {
+            "address" : "0xe446bc33208496a39e43437130da7a3edc8de2de"
+          },
+          {
+            "address" : "0x4fa4d6ae4f37d9b8311609f5045f9fd4a9e1a319"
+          },
+          {
+            "address" : "0x5dc352c8c8668f4f9bb60af0e75bd20a47f8f412"
+          },
+          {
+            "address" : "0xcf8468d8f02ef08b3bac389c86aaa8d71ca46e97"
+          },
+          {
+            "address" : "0xb2b65cf0b7d1929795b4ba1d99d1bf33d071452d"
+          },
+          {
+            "address" : "0x3db8198be5de3decb431714ac84ca400bc60cedf"
+          },
+          {
+            "address" : "0x244bab799503c49fc5e2f203cf26817da6696f50"
+          },
+          {
+            "address" : "0x40a8b29b9bba1be3507c83ffa7ee52fa1e507386"
+          },
+          {
+            "address" : "0x906e1a80fd7904992ec2b9d87ebfbe07f03a667f"
+          },
+          {
+            "address" : "0x3fd0af0ae7567d894aead2ddf84a16a3938b269a"
+          },
+          {
+            "address" : "0x2df76e66d4cd19e289f3fc26d7c522ad30541e80"
+          },
+          {
+            "address" : "0xef7eb1e77026a1e7268c618888c4477194411d77"
+          },
+          {
+            "address" : "0xbab878ee4ec57561e11acf0e8b7e9a4a8c19a608"
+          },
+          {
+            "address" : "0x14eb9ce8f60e239e20880c7956115a226ba2a3b5"
+          },
+          {
+            "address" : "0xdf8fc927ead7fa7cb1a85ff6820cfa9030dcf0af"
+          },
+          {
+            "address" : "0x50471dd03468207920cd458db8b604af2dc91ac8"
+          },
+          {
+            "address" : "0x456bd60c5fba66d95cad6fbd1ae900868d4936c0"
+          },
+          {
+            "address" : "0x2679a1a361ac8f91f7e7ce1629fb1390cf5e6b14"
+          },
+          {
+            "address" : "0x5c2a8d047eb494ac9cd452f3f7070729eedb45b8"
+          },
+          {
+            "address" : "0x609a839381c17bfc775b20aaa10b07e42e9f1017"
+          },
+          {
+            "address" : "0xac076bf71ac6c6212bb6fa30a6a5d407a0684fb5"
+          },
+          {
+            "address" : "0xb96bb7420075ad6fa5a982f36164c176dc3d8691"
+          },
+          {
+            "address" : "0xae1ca62c41f7c981caa479093811024d6e549c3d"
+          },
+          {
+            "address" : "0x52bbf662e5c738bdece7603e143c543f57298b2d"
+          },
+          {
+            "address" : "0x4aa0f75b4c26f08a6e1d26be3707485b7dc06207"
+          },
+          {
+            "address" : "0x9683d41e75b12eea8d6979c4c8e6b7f909d151c9"
+          },
+          {
+            "address" : "0xb0ba43c83bbc6358d32b6dd755903ed61f2e25e5"
           }
         ]
       },
@@ -3531,6 +4788,9 @@
         "contracts" : [
           {
             "address" : "0xbab3be86465b704ee367c8427ee1595530882a4c"
+          },
+          {
+            "address" : "0xebecf6fdea4987e522ac29324dee1c8e52e9db09"
           }
         ]
       },
@@ -3562,6 +4822,15 @@
         ]
       },
       {
+        "name" : "Orbiter",
+        "domain" : "orbiter.finance",
+        "contracts" : [
+          {
+            "address" : "0x06a9376d079bac1c5a83c3fd4c5a25b72ce35273"
+          }
+        ]
+      },
+      {
         "name" : "Overnight",
         "domain" : "app.overnight.fi",
         "contracts" : [
@@ -3576,6 +4845,15 @@
         "contracts" : [
           {
             "address" : "0x26637c9fdbd5ecdd76a9e21db7ea533e1b0713b6"
+          },
+          {
+            "address" : "0xb5cedaf172425bdea4c186f6fcf30b367273da19"
+          },
+          {
+            "address" : "0x89d43d991f47924dd47c9b6a7fa17c6a15091999"
+          },
+          {
+            "address" : "0x44f32c85258d66327aeac9db6cb9446b7c0fb578"
           }
         ]
       },
@@ -3588,6 +4866,15 @@
           },
           {
             "address" : "0xfe6508f0015c778bdcc1fb5465ba5ebe224c9912"
+          }
+        ]
+      },
+      {
+        "name" : "Pancakeswap",
+        "domain" : "perp.pancakeswap.finance",
+        "contracts" : [
+          {
+            "address" : "0x9d93e5b2364070bc9837e91833f162430246dd57"
           }
         ]
       },
@@ -3613,6 +4900,24 @@
         ]
       },
       {
+        "name" : "Phi",
+        "domain" : "phi.box",
+        "contracts" : [
+          {
+            "address" : "0x028052f458142d1689f4f851e78947c7075f2d20"
+          }
+        ]
+      },
+      {
+        "name" : "Plexus",
+        "domain" : "plexus.app",
+        "contracts" : [
+          {
+            "address" : "0x58476d800ab7979114c9fdc8146c69aae19a62eb"
+          }
+        ]
+      },
+      {
         "name" : "Portalbridge",
         "domain" : "portalbridge.com",
         "contracts" : [
@@ -3634,11 +4939,35 @@
         ]
       },
       {
+        "name" : "Radiant",
+        "domain" : "app.radiant.capital",
+        "contracts" : [
+          {
+            "address" : "0x18baa31ba51c63b7d4eb4cb15870dddc8918900a"
+          },
+          {
+            "address" : "0x2455485c868c94781aa25f3fe9a5f9a6771d659c"
+          }
+        ]
+      },
+      {
+        "name" : "Rai",
+        "domain" : "app.rai.finance",
+        "contracts" : [
+          {
+            "address" : "0xbc097e42bf1e6531c32c5cee945e0c014fa21964"
+          }
+        ]
+      },
+      {
         "name" : "Rai",
         "domain" : "soswap.rai.finance",
         "contracts" : [
           {
             "address" : "0xd55a4d54f39baf26da2f3ee7be9a6388c15f9831"
+          },
+          {
+            "address" : "0xc8ef416b8a09efcbb5ac280a842e015e34dfee5e"
           }
         ]
       },
@@ -3666,6 +4995,9 @@
         "contracts" : [
           {
             "address" : "0xa5f565650890fba1824ee0f21ebbbf660a179934"
+          },
+          {
+            "address" : "0xa1bea5fe917450041748dbbbe7e9ac57a4bbebab"
           }
         ]
       },
@@ -3684,6 +5016,18 @@
         "contracts" : [
           {
             "address" : "0x2f59e9086ec8130e21bd052065a9e6b2497bb102"
+          },
+          {
+            "address" : "0x65f154d1e8cf617aa3cb0983500f27252267ee81"
+          }
+        ]
+      },
+      {
+        "name" : "Ring",
+        "domain" : "ring.exchange",
+        "contracts" : [
+          {
+            "address" : "0x9a8c67c02250ec50f16b6143d139cbdb131f1e07"
           }
         ]
       },
@@ -3697,6 +5041,24 @@
         ]
       },
       {
+        "name" : "Rocketswap",
+        "domain" : "app.rocketswap.cc",
+        "contracts" : [
+          {
+            "address" : "0x4cf76043b3f97ba06917cbd90f9e3a2aac1b306e"
+          }
+        ]
+      },
+      {
+        "name" : "Rocketx",
+        "domain" : "app.rocketx.exchange",
+        "contracts" : [
+          {
+            "address" : "0x69460570c93f9de5e2edbc3052bf10125f0ca22d"
+          }
+        ]
+      },
+      {
         "name" : "Routernitro",
         "domain" : "app.routernitro.com",
         "contracts" : [
@@ -3705,6 +5067,15 @@
           },
           {
             "address" : "0x02d728b9c1513478a6b6de77a92648e1d8f801e7"
+          }
+        ]
+      },
+      {
+        "name" : "Routernitro",
+        "domain" : "routernitro.com",
+        "contracts" : [
+          {
+            "address" : "0xfa14a71f6647bde075bf16880ee7055c3b553237"
           }
         ]
       },
@@ -3750,6 +5121,21 @@
         "contracts" : [
           {
             "address" : "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+          },
+          {
+            "address" : "0x2fb1bea0a63f77efa77619b903b2830b52ee78f4"
+          },
+          {
+            "address" : "0x5ed6167232b937b0a5c84b49031139f405c09c8a"
+          }
+        ]
+      },
+      {
+        "name" : "Skip",
+        "domain" : "go.skip.build",
+        "contracts" : [
+          {
+            "address" : "0x36b356187ba614ee19bf79a080cac9c0a12c9206"
           }
         ]
       },
@@ -3787,11 +5173,23 @@
         ]
       },
       {
+        "name" : "Spectra",
+        "domain" : "app.spectra.finance",
+        "contracts" : [
+          {
+            "address" : "0x0fc2fbd3e8391744426c8be5228b668481c59532"
+          }
+        ]
+      },
+      {
         "name" : "Squidrouter",
         "domain" : "app.squidrouter.com",
         "contracts" : [
           {
             "address" : "0xce16f69375520ab01377ce7b88f5ba8c48f8d666"
+          },
+          {
+            "address" : "0xa4ce01bd7dd91da968a7c4a8d04282a3f5ea06bb"
           }
         ]
       },
@@ -3862,6 +5260,15 @@
         ]
       },
       {
+        "name" : "Superform",
+        "domain" : "superform.xyz",
+        "contracts" : [
+          {
+            "address" : "0xa195608c2306a26f727d5199d5a382a4508308da"
+          }
+        ]
+      },
+      {
         "name" : "Sushi",
         "domain" : "sushi.com",
         "contracts" : [
@@ -3876,6 +5283,21 @@
           },
           {
             "address" : "0x6bded42c6da8fbf0d2ba55b2fa120c5e0c8d7891"
+          },
+          {
+            "address" : "0xf2614a233c7c3e7f08b1f887ba133a13f1eb2c55"
+          },
+          {
+            "address" : "0x804b526e5bf4349819fe2db65349d0825870f8ee"
+          },
+          {
+            "address" : "0x25a0a78f5ad07b2474d3d42f1c1432178465936d"
+          },
+          {
+            "address" : "0x16ba7102271dc83fff2f709691c2b601dad7668e"
+          },
+          {
+            "address" : "0xac4c6e212a361c968f1725b4d055b47e63f80b75"
           }
         ]
       },
@@ -3894,6 +5316,12 @@
         "contracts" : [
           {
             "address" : "0x3758aa66cad9f2606f1f501c9cb31b94b713a6d5"
+          },
+          {
+            "address" : "0xb5cedaf172425bdea4c186f6fcf30b367273da19"
+          },
+          {
+            "address" : "0x691df9c4561d95a4a726313089c8536dd682b946"
           }
         ]
       },
@@ -3916,6 +5344,27 @@
         ]
       },
       {
+        "name" : "Synthetix",
+        "domain" : "exchange.synthetix.io",
+        "contracts" : [
+          {
+            "address" : "0x0a2af931effd34b81ebcc57e3d3c9b1e1de1c9ce"
+          }
+        ]
+      },
+      {
+        "name" : "Synthswap",
+        "domain" : "synthswap.io",
+        "contracts" : [
+          {
+            "address" : "0x2dd788d8b399caa4ee92b5492a6a238fdf2437de"
+          },
+          {
+            "address" : "0x2b1df2fc773554fb5a5c04ca66104436dace9778"
+          }
+        ]
+      },
+      {
         "name" : "Tarot",
         "domain" : "tarot.to",
         "contracts" : [
@@ -3930,6 +5379,48 @@
         "contracts" : [
           {
             "address" : "0xce16f69375520ab01377ce7b88f5ba8c48f8d666"
+          }
+        ]
+      },
+      {
+        "name" : "Tokiemon",
+        "domain" : "app.tokiemon.io",
+        "contracts" : [
+          {
+            "address" : "0x85f85b90783e5c2e59b785458143d08de959b4e9"
+          }
+        ]
+      },
+      {
+        "name" : "Transit",
+        "domain" : "swap.transit.finance",
+        "contracts" : [
+          {
+            "address" : "0x07964f135f276412b3182a3b2407b8dd45000000"
+          }
+        ]
+      },
+      {
+        "name" : "Transporter",
+        "domain" : "app.transporter.io",
+        "contracts" : [
+          {
+            "address" : "0x696c73976ba5d4064a4639c5911b42130f4869fb"
+          }
+        ]
+      },
+      {
+        "name" : "Trebleswap",
+        "domain" : "app.trebleswap.com",
+        "contracts" : [
+          {
+            "address" : "0x347539d82a14c0a3a89769f1024774a545a151ac"
+          },
+          {
+            "address" : "0x8af77104fbd827c2d2d09639f4ddd3048681c8ab"
+          },
+          {
+            "address" : "0x56404bbf3cc262fb9f365e7ab82ed142cb9d4a38"
           }
         ]
       },
@@ -3954,6 +5445,15 @@
           },
           {
             "address" : "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
+          },
+          {
+            "address" : "0xef42f78d25f4c681dcad2597fa04877ff802ef4b"
+          },
+          {
+            "address" : "0x80eba3855878739f4710233a8a19d89bdd2ffb8e"
+          },
+          {
+            "address" : "0x3d1b389f1707db3d4c5344d5669dbda6b5d6ab51"
           }
         ]
       },
@@ -3988,6 +5488,18 @@
         ]
       },
       {
+        "name" : "Virtuals",
+        "domain" : "app.virtuals.io",
+        "contracts" : [
+          {
+            "address" : "0x6b2c0c7be2048daa9b5527982c29f48062b34d58"
+          },
+          {
+            "address" : "0x5965851f21dae82ea7c62f87fb7c57172e9f2add"
+          }
+        ]
+      },
+      {
         "name" : "Wanchain",
         "domain" : "bridge.wanchain.org",
         "contracts" : [
@@ -4015,6 +5527,24 @@
         ]
       },
       {
+        "name" : "Wormhole",
+        "domain" : "w.wormhole.com",
+        "contracts" : [
+          {
+            "address" : "0x85d0964d328563d502867ff6899c6f73d2e59fd1"
+          }
+        ]
+      },
+      {
+        "name" : "Xname",
+        "domain" : "xname.app",
+        "contracts" : [
+          {
+            "address" : "0x3b40a97cd90b079ba627d06ebd9449bb9eb3588b"
+          }
+        ]
+      },
+      {
         "name" : "Xswap",
         "domain" : "xswap.link",
         "contracts" : [
@@ -4032,6 +5562,21 @@
           },
           {
             "address" : "0xd195070107d853e55dad9a2e6e7e970c400e67b8"
+          },
+          {
+            "address" : "0xcf446713ddf0e83f7527a260047f8ae89efae3e5"
+          },
+          {
+            "address" : "0x6829bb7edd1360255b7fc6aecbbac029f47feeb3"
+          }
+        ]
+      },
+      {
+        "name" : "Yel",
+        "domain" : "app.yel.finance",
+        "contracts" : [
+          {
+            "address" : "0xd6f8812ddfc047e265bb27f3a9d1f2a9d27c447f"
           }
         ]
       },
@@ -4048,6 +5593,15 @@
         ]
       },
       {
+        "name" : "Zcx",
+        "domain" : "zcx.com",
+        "contracts" : [
+          {
+            "address" : "0xef58b643240178c2bc37681f8d4e50d7ec37ee22"
+          }
+        ]
+      },
+      {
         "name" : "Zerion",
         "domain" : "app.zerion.io",
         "contracts" : [
@@ -4056,6 +5610,24 @@
           },
           {
             "address" : "0x3a23f943181408eac424116af7b7790c94cb97a5"
+          }
+        ]
+      },
+      {
+        "name" : "Zerolend",
+        "domain" : "one.zerolend.xyz",
+        "contracts" : [
+          {
+            "address" : "0x11ccdcfb19151feb086ee6f1f62bfa0940c85612"
+          }
+        ]
+      },
+      {
+        "name" : "Zetachain",
+        "domain" : "hub.zetachain.com",
+        "contracts" : [
+          {
+            "address" : "0x48b9aacc350b20147001f88821d31731ba4c30ed"
           }
         ]
       },
@@ -4077,6 +5649,291 @@
           },
           {
             "address" : "0x1e1ad3d381bc0ccea5e44c29fb1f7a0981b97f37"
+          },
+          {
+            "address" : "0x77777775c5074b74540d9cc63dd840a8c692b4b5"
+          },
+          {
+            "address" : "0x18f041ca13ea69f48c039530445fd44af5e5699a"
+          },
+          {
+            "address" : "0x828b645f9a3808d9bf6b04f420993e0b5466ff06"
+          },
+          {
+            "address" : "0xf7e0e8c4cbc7e5d05e6b52cc90260b9818be56d7"
+          },
+          {
+            "address" : "0xf1fc9580784335b2613c1392a530c1aa2a69ba3d"
+          },
+          {
+            "address" : "0xcbef7cd36795f1f4519c822e90068f990cfa5748"
+          },
+          {
+            "address" : "0x893bda76304c4f04d5214851b713f88230876d60"
+          },
+          {
+            "address" : "0xd08e820a9751b42c17c6345500ee60a6698dd615"
+          },
+          {
+            "address" : "0xe9502d00f982c889294403c5e9e74c594e3be7b8"
+          },
+          {
+            "address" : "0x5236868e865aa02019a8dfaff009a44cc3d5addf"
+          },
+          {
+            "address" : "0x7bcd0c15029d1f598f5f27617505ff6a72b8887d"
+          },
+          {
+            "address" : "0x5a34646b860485f012435e2486edb375615d1c7b"
+          },
+          {
+            "address" : "0x5d92caa6b0db0171fc167235fefca5f4bd2a4d40"
+          },
+          {
+            "address" : "0x607fec7159974472f73ef8c5815ca2efa0a0877e"
+          },
+          {
+            "address" : "0x0a06c38ef2c9be3e7667ff23d44fb090c8331137"
+          },
+          {
+            "address" : "0x2800f9bef02d79cc8497852fc36707ac690285fe"
+          },
+          {
+            "address" : "0xa52bd946219aaea51e1c648150da1818bd86febf"
+          },
+          {
+            "address" : "0x7aff6732b5bc2f79e79bb0dedcd760db5f3f047b"
+          },
+          {
+            "address" : "0xd0ff4b3430903376929d5059959a293cf4a7075e"
+          },
+          {
+            "address" : "0x99655748f60823088f94c8c92bed4ac4728abd67"
+          },
+          {
+            "address" : "0x3161c79bf3530f0ea97184236bde6ac843638bbc"
+          },
+          {
+            "address" : "0x180b03704c4638b1a7414aaacbe45b42c66b85d7"
+          },
+          {
+            "address" : "0xb50e20bdef743d51b576c93ac07c126dd87bb3ab"
+          },
+          {
+            "address" : "0xbad286e74b9099eda6b131b68bc16f55aacb3052"
+          },
+          {
+            "address" : "0x4b61096f1bd8bf0a669f1f3d8188c0d7cb1106d6"
+          },
+          {
+            "address" : "0xe338584ba64ee40bbe14b36b931d68465f71d2d7"
+          },
+          {
+            "address" : "0xbde7b83a5010a944a4adb4dc666d040f8dd9fab3"
+          },
+          {
+            "address" : "0x59c0fdee5d23595288db048f4a478d05b006c82d"
+          },
+          {
+            "address" : "0x950d0cb90e92bcdd510d66d49670b23592d3ffbd"
+          },
+          {
+            "address" : "0x97900ff53a3eb070ac2d7001e355fd9b606fe078"
+          },
+          {
+            "address" : "0x95ea4b9fe2a1b7bf185207d4932c7fb1cbb02717"
+          },
+          {
+            "address" : "0x2506df3b796d8423a1287280cebe2bb0e837889b"
+          },
+          {
+            "address" : "0xdaeba633ba186d2e34f1a1262192a9762c5f2238"
+          },
+          {
+            "address" : "0x8a9cf9ae6536127129727938cb1a6438273e4f94"
+          },
+          {
+            "address" : "0x1b23819885fce964a8b39d364b7462d6e597ae8e"
+          },
+          {
+            "address" : "0xbe29e78b18066b3bf7c70523371e0169350f6f53"
+          },
+          {
+            "address" : "0x78f11d82f93cf707d98e00870c9debf3601fa397"
+          },
+          {
+            "address" : "0xd93dc936e60e9e275cbe6f225e9c065951b9b1d4"
+          },
+          {
+            "address" : "0x20429f731096e359910921994a267d32ef576720"
+          },
+          {
+            "address" : "0xdc1b8f07440ec756bf820db446314ab3d1c5fa6a"
+          },
+          {
+            "address" : "0x27e0221b0b845c62bf986210d2ba5be4b3f80b0c"
+          },
+          {
+            "address" : "0xdcb492364375a425547fedd3bbe66904994c6182"
+          },
+          {
+            "address" : "0x290b666eb83c88de3745aaa589e09ebda58f80b3"
+          },
+          {
+            "address" : "0x481deb6ab67fa37e1d6b69c7f6a3931436f51d2e"
+          },
+          {
+            "address" : "0x62574e9d339ff6c336cbf900323162de9e134611"
+          },
+          {
+            "address" : "0x0acd5006a4ee321be73bbe7a033cec236c9a62db"
+          },
+          {
+            "address" : "0xcab6c453f1f000924a53bd8e5376804804fd3b69"
+          },
+          {
+            "address" : "0xfe3659974f11f4e3cebccceb31bcd528bdd92189"
+          },
+          {
+            "address" : "0x1b77c87e078b4586de4ca81aaa388a2ab9cb0849"
+          },
+          {
+            "address" : "0xd78812e7adca069d0bc6b39533ed5c2f3dd26a27"
+          },
+          {
+            "address" : "0xb3115aae6cc079a46f5494a438f691f5fbd0c9ab"
+          },
+          {
+            "address" : "0x64e4e245ddb5423603d0e0e235c6721877d04761"
+          },
+          {
+            "address" : "0xfbc11becd6a5cb0e26564b50f459fbc8eb578ff0"
+          },
+          {
+            "address" : "0x7e18fd29cc2c819d6a541e59a43403d24fec5dab"
+          },
+          {
+            "address" : "0x211610b7bed48552509048ba59d2c850939324ce"
+          },
+          {
+            "address" : "0x97692c288a359d5818f4b7aadcde1f532740a225"
+          },
+          {
+            "address" : "0x32c2b5bb3d10b7336f4a46a8190f7ddd11c9a335"
+          },
+          {
+            "address" : "0xf1bf289902c1fbf8cfd2eff3b9403ea8a2db9ac6"
+          },
+          {
+            "address" : "0xc41b9cf3b325673f1b4bd35106255bb0ce2cdeac"
+          },
+          {
+            "address" : "0xc66566c4067115cabdaf571289902f90cd197468"
+          },
+          {
+            "address" : "0xd769d56f479e9e72a77bb1523e866a33098feec5"
+          },
+          {
+            "address" : "0x6c03a94ca3f4b877845593406dd916df4522884b"
+          },
+          {
+            "address" : "0x82a88d73127bee7312b08d56bf25448d291b358a"
+          },
+          {
+            "address" : "0x7266895aca76bedf84cc63810494019f043056c3"
+          },
+          {
+            "address" : "0x54ba40e7b193626df6cd1f96a68465cdc0b8d88c"
+          },
+          {
+            "address" : "0xdf6783f71ae511f34859231241af918127f3062b"
+          },
+          {
+            "address" : "0x68aae3540f3530d96a54d7fa0410a60b6f2aae8f"
+          },
+          {
+            "address" : "0xc933b6ba31c86d6b5a64ed380092e2b6d20e3283"
+          },
+          {
+            "address" : "0xbd4bd9c16a065c2d0826c6f89035995c0b877278"
+          },
+          {
+            "address" : "0xc40c7b7add2024a72b80b649e918040c1b218644"
+          },
+          {
+            "address" : "0x6977d841d7b013c9f45ea20c2d79d5380460a0d4"
+          },
+          {
+            "address" : "0x3840e47d090e7c90bac2de13dad3d1dfecf90def"
+          },
+          {
+            "address" : "0x0d96943c97dbc8c178e028304da77f548994b021"
+          },
+          {
+            "address" : "0xf7842dbaecdb88aa5ee33ec94a37d50833d9e9f4"
+          },
+          {
+            "address" : "0x78390d9fc746fce6e2887b8732e19afba964bdbc"
+          },
+          {
+            "address" : "0x7fb492096b1d1232a014b1ec2b57edc0d5f7ebf6"
+          },
+          {
+            "address" : "0xa10da7f6bc15a6bb6b686b9692afb682baa38da6"
+          },
+          {
+            "address" : "0x8252d7b60300ef8513f91a6dcb699ad46a1ee001"
+          },
+          {
+            "address" : "0xa356595a18a29ed28164ebb138747b0ea206a16d"
+          },
+          {
+            "address" : "0x398695e2a383e1ef549c8339c9b3bf58698e7fac"
+          },
+          {
+            "address" : "0x9b89c78f8971bc3e256e60b53508ece6a37a8da3"
+          },
+          {
+            "address" : "0x28c789d00df8b264eb815a3e026dcd857530da1f"
+          },
+          {
+            "address" : "0x61225f06e90fd84278507de52dea12fd8defb5c1"
+          },
+          {
+            "address" : "0xef0ba30fa45e6015f1f403b803eb6c4b4c401c91"
+          },
+          {
+            "address" : "0x886b38ae9dc63abd33f3d2b6f1e0f6ee00f36d25"
+          },
+          {
+            "address" : "0x9a802df4c57d6e1c61d8c30063ee6a5c7fb1e5ee"
+          },
+          {
+            "address" : "0xbf20ee0e84a94c5aed65a1bee68a00aaa9d3ac3a"
+          },
+          {
+            "address" : "0xc12eb5783283ec327ee1f56a87e7ea607d87190a"
+          },
+          {
+            "address" : "0x1b302b1d2c74049176b16e19d1d3fa16375de8c6"
+          },
+          {
+            "address" : "0x5a97769b2427b0b84362ddbf371d6a4517ab4b0c"
+          },
+          {
+            "address" : "0x779a248ba71143f17e9dc8964c7d89303d927f28"
+          },
+          {
+            "address" : "0x2b999ad6be65606020f68f0128ff0188a1e9affc"
+          },
+          {
+            "address" : "0x659a07dcc7f853cc626a6807f3557d15ca138772"
+          },
+          {
+            "address" : "0x01f6ecdf63df2eadf84bbf7b649c89eb1bc74927"
+          },
+          {
+            "address" : "0xfc9c0963528b5715b7a611071226cea925dae018"
           }
         ]
       },
@@ -6170,6 +8027,15 @@
         ]
       },
       {
+        "name" : "Disperse",
+        "domain" : "disperse.app",
+        "contracts" : [
+          {
+            "address" : "0xd152f549545093347a162dce210e7293f1452150"
+          }
+        ]
+      },
+      {
         "name" : "Eth",
         "domain" : "1.horswap.eth.limo",
         "contracts" : [
@@ -6284,11 +8150,29 @@
         ]
       },
       {
+        "name" : "Skip",
+        "domain" : "go.skip.build",
+        "contracts" : [
+          {
+            "address" : "0x5615cdab10dc425a742d643d949a7f474c01abc4"
+          }
+        ]
+      },
+      {
         "name" : "Stcelo",
         "domain" : "app.stcelo.xyz",
         "contracts" : [
           {
             "address" : "0x0239b96d10a434a56cc9e09383077a0490cf9398"
+          }
+        ]
+      },
+      {
+        "name" : "Stellaswap",
+        "domain" : "app.stellaswap.com",
+        "contracts" : [
+          {
+            "address" : "0xce16f69375520ab01377ce7b88f5ba8c48f8d666"
           }
         ]
       },
@@ -6307,6 +8191,9 @@
         "contracts" : [
           {
             "address" : "0xcdbcd51a5e8728e0af4895ce5771b7d17ff71959"
+          },
+          {
+            "address" : "0xac4c6e212a361c968f1725b4d055b47e63f80b75"
           }
         ]
       },
@@ -30579,6 +32466,15 @@
         ]
       },
       {
+        "name" : "Balmy",
+        "domain" : "app.balmy.xyz",
+        "contracts" : [
+          {
+            "address" : "0xed306e38bb930ec9646ff3d917b2e513a97530b1"
+          }
+        ]
+      },
+      {
         "name" : "Beets",
         "domain" : "beets.fi",
         "contracts" : [
@@ -30813,6 +32709,15 @@
         ]
       },
       {
+        "name" : "Magpiefi",
+        "domain" : "app.magpiefi.xyz",
+        "contracts" : [
+          {
+            "address" : "0x2b14763c27b9661182c2503f6c9c4d47ba747dd2"
+          }
+        ]
+      },
+      {
         "name" : "Matcha",
         "domain" : "matcha.xyz",
         "contracts" : [
@@ -30909,6 +32814,15 @@
         ]
       },
       {
+        "name" : "Plexus",
+        "domain" : "plexus.app",
+        "contracts" : [
+          {
+            "address" : "0x9932612e3988129f2167a34a77da600fd4f0a744"
+          }
+        ]
+      },
+      {
         "name" : "Polter",
         "domain" : "polter.finance",
         "contracts" : [
@@ -30930,11 +32844,41 @@
         ]
       },
       {
+        "name" : "Rango",
+        "domain" : "app.rango.exchange",
+        "contracts" : [
+          {
+            "address" : "0x69460570c93f9de5e2edbc3052bf10125f0ca22d"
+          }
+        ]
+      },
+      {
         "name" : "Robots",
         "domain" : "robots.farm",
         "contracts" : [
           {
             "address" : "0x111111125421ca6dc452d289314280a0f8842a65"
+          }
+        ]
+      },
+      {
+        "name" : "Rocketx",
+        "domain" : "app.rocketx.exchange",
+        "contracts" : [
+          {
+            "address" : "0x69460570c93f9de5e2edbc3052bf10125f0ca22d"
+          }
+        ]
+      },
+      {
+        "name" : "Sacra",
+        "domain" : "fantom.sacra.game",
+        "contracts" : [
+          {
+            "address" : "0xc25283b82ba0f230604e37668e6289499057b7fd"
+          },
+          {
+            "address" : "0xdb3eb5370d642cf68b38d78a3e202fe72d17ed17"
           }
         ]
       },
@@ -30947,6 +32891,24 @@
           },
           {
             "address" : "0x3d3094aec3b63c744b9fe56397d36be568faebdf"
+          }
+        ]
+      },
+      {
+        "name" : "Soniclabs",
+        "domain" : "my.soniclabs.com",
+        "contracts" : [
+          {
+            "address" : "0x3561607590e28e0848ba3b67074c676d6d1c9953"
+          }
+        ]
+      },
+      {
+        "name" : "Soulswap",
+        "domain" : "exchange.soulswap.finance",
+        "contracts" : [
+          {
+            "address" : "0x6b3d631b87fe27af29efec61d2ab8ce4d621ccbf"
           }
         ]
       },
@@ -31043,6 +33005,9 @@
           },
           {
             "address" : "0x804b526e5bf4349819fe2db65349d0825870f8ee"
+          },
+          {
+            "address" : "0xac4c6e212a361c968f1725b4d055b47e63f80b75"
           }
         ]
       },
@@ -31085,6 +33050,15 @@
         "contracts" : [
           {
             "address" : "0x6753f6763d6bacd951a1e80ff553ea39d53c7bd3"
+          }
+        ]
+      },
+      {
+        "name" : "Trebleswap",
+        "domain" : "app.trebleswap.com",
+        "contracts" : [
+          {
+            "address" : "0xce16f69375520ab01377ce7b88f5ba8c48f8d666"
           }
         ]
       },
@@ -31151,6 +33125,15 @@
           },
           {
             "address" : "0xa1a938855735c0651a6cfe2e93a32a28a236d0e9"
+          }
+        ]
+      },
+      {
+        "name" : "Yel",
+        "domain" : "app.yel.finance",
+        "contracts" : [
+          {
+            "address" : "0x89cb5608d3babb3392117be91ed76ebb4ce8e11c"
           }
         ]
       },
@@ -31228,6 +33211,9 @@
           },
           {
             "address" : "0x7b9c12915c594a68de96201cbdc79147f09da278"
+          },
+          {
+            "address" : "0x721b9abab6511b46b9ee83a1aba23bdacb004149"
           }
         ]
       },
@@ -31298,6 +33284,15 @@
         ]
       },
       {
+        "name" : "Avantisfi",
+        "domain" : "avantisfi.com",
+        "contracts" : [
+          {
+            "address" : "0x663dc15d3c1ac63ff12e45ab68fea3f0a883c251"
+          }
+        ]
+      },
+      {
         "name" : "Azuro",
         "domain" : "azuro.org",
         "contracts" : [
@@ -31315,6 +33310,15 @@
         "contracts" : [
           {
             "address" : "0xba12222222228d8ba445958a75a0704d566bf2c8"
+          }
+        ]
+      },
+      {
+        "name" : "Balmy",
+        "domain" : "app.balmy.xyz",
+        "contracts" : [
+          {
+            "address" : "0xed306e38bb930ec9646ff3d917b2e513a97530b1"
           }
         ]
       },
@@ -31369,6 +33373,21 @@
         "contracts" : [
           {
             "address" : "0xbe51d38547992293c89cc589105784ab60b004a9"
+          }
+        ]
+      },
+      {
+        "name" : "Bungee",
+        "domain" : "new.bungee.exchange",
+        "contracts" : [
+          {
+            "address" : "0xec1b393ded5c92e8f9bcfedbac2944257eb0184a"
+          },
+          {
+            "address" : "0x2837593949f6c5f7abb66dd848ed4e5b774d4ef5"
+          },
+          {
+            "address" : "0x4278d3e47774dbf2ed529b0286a6008088104d34"
           }
         ]
       },
@@ -31487,6 +33506,15 @@
         ]
       },
       {
+        "name" : "Debridge",
+        "domain" : "app.debridge.finance",
+        "contracts" : [
+          {
+            "address" : "0x663dc15d3c1ac63ff12e45ab68fea3f0a883c251"
+          }
+        ]
+      },
+      {
         "name" : "Defillama",
         "domain" : "swap.defillama.com",
         "contracts" : [
@@ -31550,11 +33578,29 @@
         ]
       },
       {
+        "name" : "Dln",
+        "domain" : "app.dln.trade",
+        "contracts" : [
+          {
+            "address" : "0x663dc15d3c1ac63ff12e45ab68fea3f0a883c251"
+          }
+        ]
+      },
+      {
         "name" : "Dx",
         "domain" : "dx.app",
         "contracts" : [
           {
             "address" : "0xf1fd44fd4f4360c1c92f736f1472c1bbdd95460c"
+          }
+        ]
+      },
+      {
+        "name" : "Dzap",
+        "domain" : "app.dzap.io",
+        "contracts" : [
+          {
+            "address" : "0xf708e11a7c94abde8f6217b13e6fe39c8b9cc0a6"
           }
         ]
       },
@@ -31783,6 +33829,9 @@
           },
           {
             "address" : "0x54a92c21c6553a8085066311f2c8d9db1b5e6610"
+          },
+          {
+            "address" : "0x88b507b7e36f8d19e11dfa4f958dba8d6cebdc17"
           }
         ]
       },
@@ -31994,6 +34043,24 @@
         ]
       },
       {
+        "name" : "Realtoken",
+        "domain" : "rmm.realtoken.network",
+        "contracts" : [
+          {
+            "address" : "0x2a36c23f113053e08bbdf4a6db30fc37fe0b1068"
+          }
+        ]
+      },
+      {
+        "name" : "Relay",
+        "domain" : "relay.link",
+        "contracts" : [
+          {
+            "address" : "0xa1bea5fe917450041748dbbbe7e9ac57a4bbebab"
+          }
+        ]
+      },
+      {
         "name" : "Revoke",
         "domain" : "revoke.cash",
         "contracts" : [
@@ -32002,6 +34069,15 @@
           },
           {
             "address" : "0x1111111254eeb25477b68fb85ed929f73a960582"
+          }
+        ]
+      },
+      {
+        "name" : "Rocketx",
+        "domain" : "app.rocketx.exchange",
+        "contracts" : [
+          {
+            "address" : "0x663dc15d3c1ac63ff12e45ab68fea3f0a883c251"
           }
         ]
       },
@@ -32132,6 +34208,15 @@
         ]
       },
       {
+        "name" : "Superfluid",
+        "domain" : "mint.superfluid.finance",
+        "contracts" : [
+          {
+            "address" : "0xcd4e576ba1b74692dbc158c5f399269ec4739577"
+          }
+        ]
+      },
+      {
         "name" : "Sushi",
         "domain" : "sushi.com",
         "contracts" : [
@@ -32164,6 +34249,9 @@
           },
           {
             "address" : "0xf2614a233c7c3e7f08b1f887ba133a13f1eb2c55"
+          },
+          {
+            "address" : "0xac4c6e212a361c968f1725b4d055b47e63f80b75"
           }
         ]
       },
@@ -32430,6 +34518,15 @@
         "contracts" : [
           {
             "address" : "0xd5ec61bca0af24ad06be431585a0920142c98890"
+          }
+        ]
+      },
+      {
+        "name" : "Crosscurve",
+        "domain" : "app.crosscurve.fi",
+        "contracts" : [
+          {
+            "address" : "0xa2a786ff9148f7c88ee93372db8cbe9e94585c74"
           }
         ]
       },
@@ -32812,6 +34909,15 @@
         ]
       },
       {
+        "name" : "Lanca",
+        "domain" : "app.lanca.io",
+        "contracts" : [
+          {
+            "address" : "0xcf93e045778de481de87586b91bc7c4f09147502"
+          }
+        ]
+      },
+      {
         "name" : "Layer3",
         "domain" : "app.layer3.xyz",
         "contracts" : [
@@ -32859,6 +34965,12 @@
           },
           {
             "address" : "0xba7bac71a8ee550d89b827fe6d67bc3dca07b104"
+          },
+          {
+            "address" : "0xeb57de1f78304cf925405efc1089793aabddb0d5"
+          },
+          {
+            "address" : "0x15392211222b46a0ea85a9a800830486d144848d"
           }
         ]
       },
@@ -32868,6 +34980,15 @@
         "contracts" : [
           {
             "address" : "0xdef1abe32c034e558cdd535791643c58a13acc10"
+          }
+        ]
+      },
+      {
+        "name" : "Mayan",
+        "domain" : "swap.mayan.finance",
+        "contracts" : [
+          {
+            "address" : "0x337685fdab40d39bd02028545a4ffa7d287cc3e2"
           }
         ]
       },
@@ -32898,6 +35019,27 @@
         "contracts" : [
           {
             "address" : "0x9dda6ef3d919c9bc8885d5560999a3640431e8e6"
+          }
+        ]
+      },
+      {
+        "name" : "Micro3",
+        "domain" : "micro3.io",
+        "contracts" : [
+          {
+            "address" : "0x2f5c25874302558299e955d29619c6f4b9a16610"
+          },
+          {
+            "address" : "0x3004910cf9f2bf4bbc8506f9a3a84e2c02871633"
+          }
+        ]
+      },
+      {
+        "name" : "Nfts2me",
+        "domain" : "nfts2me.com",
+        "contracts" : [
+          {
+            "address" : "0x00000000001594c61dd8a6804da9ab58ed2483ce"
           }
         ]
       },
@@ -32988,6 +35130,15 @@
         "contracts" : [
           {
             "address" : "0xca423977156bb05b13a2ba3b76bc5419e2fe9680"
+          }
+        ]
+      },
+      {
+        "name" : "Owlto",
+        "domain" : "owlto.finance",
+        "contracts" : [
+          {
+            "address" : "0xd9d05c8971fb0e82f3640790fb845225a6e04af9"
           }
         ]
       },
@@ -35047,6 +37198,9 @@
         "contracts" : [
           {
             "address" : "0x31a239f3e39c5d8ba6b201ba81ed584492ae960f"
+          },
+          {
+            "address" : "0xe79ca44408dae5a57ea2a9594532f1e84d2edaa4"
           }
         ]
       },
@@ -35074,6 +37228,21 @@
         "contracts" : [
           {
             "address" : "0xfc30937f5cde93df8d48acaf7e6f5d8d8a31f636"
+          },
+          {
+            "address" : "0x00000027bc53f021f3564180f347425edaa20883"
+          },
+          {
+            "address" : "0xb39002e4033b162fac607fc3471e205fa2ae5967"
+          }
+        ]
+      },
+      {
+        "name" : "Ast",
+        "domain" : "ast.finance",
+        "contracts" : [
+          {
+            "address" : "0xc40c8bc5ce7077adf9b798c1c84c810f1094a060"
           }
         ]
       },
@@ -35083,6 +37252,15 @@
         "contracts" : [
           {
             "address" : "0x7be980e327692cf11e793a0d141d534779af8ef4"
+          }
+        ]
+      },
+      {
+        "name" : "Balmy",
+        "domain" : "app.balmy.xyz",
+        "contracts" : [
+          {
+            "address" : "0xed306e38bb930ec9646ff3d917b2e513a97530b1"
           }
         ]
       },
@@ -35201,11 +37379,38 @@
         ]
       },
       {
+        "name" : "Bridgers",
+        "domain" : "bridgers.xyz",
+        "contracts" : [
+          {
+            "address" : "0x8f957ed3f969d7b6e5d6df81e61a5ff45f594dd1"
+          }
+        ]
+      },
+      {
+        "name" : "Bungee",
+        "domain" : "new.bungee.exchange",
+        "contracts" : [
+          {
+            "address" : "0x7f0d90e4e81b77c6eeff544c461b2f53bfa5a6ad"
+          }
+        ]
+      },
+      {
         "name" : "C2",
         "domain" : "c2.world",
         "contracts" : [
           {
             "address" : "0xe0b5d1a12530fe51139da848a6c909f295352555"
+          }
+        ]
+      },
+      {
+        "name" : "Chadfinance",
+        "domain" : "chadfinance.xyz",
+        "contracts" : [
+          {
+            "address" : "0xf9fda3eecb1398e7c084a0a93ceb90f1d5937d91"
           }
         ]
       },
@@ -35276,11 +37481,29 @@
         ]
       },
       {
+        "name" : "Decent",
+        "domain" : "app.decent.xyz",
+        "contracts" : [
+          {
+            "address" : "0xc47d2752eaa7e7736ba8629bf85bf967cf95b6d9"
+          }
+        ]
+      },
+      {
         "name" : "Defillama",
         "domain" : "swap.defillama.com",
         "contracts" : [
           {
             "address" : "0xbfe03c9e20a9fc0b37de01a172f207004935e0b1"
+          }
+        ]
+      },
+      {
+        "name" : "Disperse",
+        "domain" : "disperse.app",
+        "contracts" : [
+          {
+            "address" : "0xd15fe25ed0dba12fe05e7029c88b10c25e8880e3"
           }
         ]
       },
@@ -35309,6 +37532,15 @@
         ]
       },
       {
+        "name" : "Dzap",
+        "domain" : "app.dzap.io",
+        "contracts" : [
+          {
+            "address" : "0xf708e11a7c94abde8f6217b13e6fe39c8b9cc0a6"
+          }
+        ]
+      },
+      {
         "name" : "Eisenfinance",
         "domain" : "app.eisenfinance.com",
         "contracts" : [
@@ -35323,6 +37555,15 @@
         "contracts" : [
           {
             "address" : "0x000000009ca83fc2e014b149fe7530174de0d938"
+          }
+        ]
+      },
+      {
+        "name" : "Feefree",
+        "domain" : "app.feefree.fi",
+        "contracts" : [
+          {
+            "address" : "0x0feeb68668672b3d6bf3e01455164a24b266c400"
           }
         ]
       },
@@ -35362,6 +37603,27 @@
         "contracts" : [
           {
             "address" : "0xa33db50b90e35378faee4058deaab2b392989b65"
+          },
+          {
+            "address" : "0x90f1ef9d2cde204c8494cf73130771b350070b53"
+          }
+        ]
+      },
+      {
+        "name" : "Icecreamswap",
+        "domain" : "icecreamswap.com",
+        "contracts" : [
+          {
+            "address" : "0xd810a437e334b9c3660c18b38fb3c01000b91dd3"
+          }
+        ]
+      },
+      {
+        "name" : "Interport",
+        "domain" : "app.interport.fi",
+        "contracts" : [
+          {
+            "address" : "0x4268ddd4f1b2ab737729ec7a0c08c8510ad6a85c"
           }
         ]
       },
@@ -35371,6 +37633,9 @@
         "contracts" : [
           {
             "address" : "0x1502d025bfa624469892289d45c0352997251728"
+          },
+          {
+            "address" : "0xc0ac932cac7b4d8f7c31792082e2e8f3cfe99c10"
           }
         ]
       },
@@ -35448,6 +37713,15 @@
       },
       {
         "name" : "Layerbank",
+        "domain" : "app.layerbank.finance",
+        "contracts" : [
+          {
+            "address" : "0xec53c830f4444a8a56455c6836b5d2aa794289aa"
+          }
+        ]
+      },
+      {
+        "name" : "Layerbank",
         "domain" : "scroll.layerbank.finance",
         "contracts" : [
           {
@@ -35488,6 +37762,12 @@
         "contracts" : [
           {
             "address" : "0x956df8424b556f0076e8abf5481605f5a791cc7f"
+          },
+          {
+            "address" : "0x52bebb970697476313ae2b3383f40d4afd4ad9d3"
+          },
+          {
+            "address" : "0x3ca605083506096fba34461b471db7ed03290b2d"
           }
         ]
       },
@@ -35542,6 +37822,15 @@
         "contracts" : [
           {
             "address" : "0x2f5c25874302558299e955d29619c6f4b9a16610"
+          }
+        ]
+      },
+      {
+        "name" : "Mintchain",
+        "domain" : "mintchain.io",
+        "contracts" : [
+          {
+            "address" : "0x575dbe0023d2602515a73d4f0b5ee857e8eba805"
           }
         ]
       },
@@ -35608,6 +37897,9 @@
         "contracts" : [
           {
             "address" : "0x6b2c0c7be2048daa9b5527982c29f48062b34d58"
+          },
+          {
+            "address" : "0xf956d9fa19656d8e5219fd6fa8ba6cb198094138"
           }
         ]
       },
@@ -35680,6 +37972,63 @@
           },
           {
             "address" : "0x90a2bc40d0f17481859e1636359c66b81736d89b"
+          },
+          {
+            "address" : "0x29f0451a5c4f62d00a05f1767ad721e9d9f3f12c"
+          },
+          {
+            "address" : "0xa55bdadbbe5396635bc6e7bbe9e9578603e14ffd"
+          },
+          {
+            "address" : "0xa5e9b8ae07a0e71e039a10ed2d7642ceaaf21b44"
+          },
+          {
+            "address" : "0x3fa6a64c97e6daebb2a335a707838c9ad0064be3"
+          },
+          {
+            "address" : "0x0f27aafcbb6375e5d9164f213b3abb76aa3e2d29"
+          },
+          {
+            "address" : "0x868e2ea14f9907f867128009a5dc9f27fe5fbffc"
+          },
+          {
+            "address" : "0xce7f7ab0a4e3beb6d6126b43363adf292baf729b"
+          },
+          {
+            "address" : "0xb3259dbbab1f34fae25dea5d954b3f09da2d950c"
+          },
+          {
+            "address" : "0xa1d3f010e1710b5278ce389e6756438583a1720e"
+          },
+          {
+            "address" : "0x5f78828c3857fdff4ff7fbf0f9436eb630f4083e"
+          },
+          {
+            "address" : "0x21bb797e27d2775503dd220d5b8db4aa17c19168"
+          },
+          {
+            "address" : "0x899b1184cc5435d7c48a39d5b09501ca9c9b0dcc"
+          },
+          {
+            "address" : "0xaa298f18545884de4eeb69248b9819719f595124"
+          },
+          {
+            "address" : "0xda7b6a0e873c7965fe954a51ac21912039eddf08"
+          },
+          {
+            "address" : "0xb0268c69e9489e82ac05db3834ce3adf91e680d0"
+          },
+          {
+            "address" : "0xeb4fadfa5f5203c1d5899cf7be05f7b06aa33b06"
+          },
+          {
+            "address" : "0x267d88a16187c5fe22429fa4f06e492f86a8674f"
+          },
+          {
+            "address" : "0x22a86c07d13cf8b8a27f750393baeca96c0a5a0f"
+          },
+          {
+            "address" : "0xf20c60a68e9fa5a293251fd62a6783879aad16a1"
           }
         ]
       },
@@ -35701,6 +38050,12 @@
           },
           {
             "address" : "0xe6feca764b7548127672c189d303eb956c3ba372"
+          },
+          {
+            "address" : "0x575dbe0023d2602515a73d4f0b5ee857e8eba805"
+          },
+          {
+            "address" : "0x716d5dd0593ca5ddf8c91a9ee40685f7525e4fc6"
           }
         ]
       },
@@ -35719,6 +38074,12 @@
           },
           {
             "address" : "0x27d2b6cecd759d289b0227966cc6fe69cc2b0424"
+          },
+          {
+            "address" : "0xd53d0facaef5c1679d9a2bd2ec7c5a5dc8740017"
+          },
+          {
+            "address" : "0x5f7d990e76640c00c563c4d68e4a6e16c65bf184"
           }
         ]
       },
@@ -35731,6 +38092,24 @@
           },
           {
             "address" : "0x555a36a97b8f2dad0bc237c6f8a4b548f576f058"
+          }
+        ]
+      },
+      {
+        "name" : "Pixelswap",
+        "domain" : "pixelswap.xyz",
+        "contracts" : [
+          {
+            "address" : "0x198aaf243ff2410415ada96c1e1c0c9df618c6f0"
+          }
+        ]
+      },
+      {
+        "name" : "Plexus",
+        "domain" : "plexus.app",
+        "contracts" : [
+          {
+            "address" : "0x589f2ecb4e20c204485e8c9a211a4dda68e12295"
           }
         ]
       },
@@ -35762,6 +38141,15 @@
         ]
       },
       {
+        "name" : "Relay",
+        "domain" : "relay.link",
+        "contracts" : [
+          {
+            "address" : "0xa1bea5fe917450041748dbbbe7e9ac57a4bbebab"
+          }
+        ]
+      },
+      {
         "name" : "Rhino",
         "domain" : "app.rhino.fi",
         "contracts" : [
@@ -35773,6 +38161,15 @@
           },
           {
             "address" : "0x4be1136247cdeca3775a7a32aff6a621c1c149eb"
+          }
+        ]
+      },
+      {
+        "name" : "Rocketx",
+        "domain" : "app.rocketx.exchange",
+        "contracts" : [
+          {
+            "address" : "0x69460570c93f9de5e2edbc3052bf10125f0ca22d"
           }
         ]
       },
@@ -35795,11 +38192,29 @@
         ]
       },
       {
+        "name" : "Routernitro",
+        "domain" : "routernitro.com",
+        "contracts" : [
+          {
+            "address" : "0x6446c9f678764c8b69a75aedd5b505e239dffb63"
+          }
+        ]
+      },
+      {
         "name" : "Rubic",
         "domain" : "app.rubic.exchange",
         "contracts" : [
           {
             "address" : "0x3335733c454805df6a77f825f266e136fb4a3333"
+          }
+        ]
+      },
+      {
+        "name" : "Safe",
+        "domain" : "app.safe.global",
+        "contracts" : [
+          {
+            "address" : "0x4e1dcf7ad4e460cfd30791ccc4f9c8a4f820ec67"
           }
         ]
       },
@@ -35906,6 +38321,15 @@
         ]
       },
       {
+        "name" : "Stellaswap",
+        "domain" : "app.stellaswap.com",
+        "contracts" : [
+          {
+            "address" : "0xce16f69375520ab01377ce7b88f5ba8c48f8d666"
+          }
+        ]
+      },
+      {
         "name" : "Sushi",
         "domain" : "sushi.com",
         "contracts" : [
@@ -35914,6 +38338,9 @@
           },
           {
             "address" : "0x804b526e5bf4349819fe2db65349d0825870f8ee"
+          },
+          {
+            "address" : "0xac4c6e212a361c968f1725b4d055b47e63f80b75"
           }
         ]
       },
@@ -35960,6 +38387,15 @@
         ]
       },
       {
+        "name" : "Syno",
+        "domain" : "app.syno.finance",
+        "contracts" : [
+          {
+            "address" : "0xf5b2b5f495756c5486acf73222e7400c7a0e28a6"
+          }
+        ]
+      },
+      {
         "name" : "Synonym",
         "domain" : "app.synonym.finance",
         "contracts" : [
@@ -35999,11 +38435,29 @@
         ]
       },
       {
+        "name" : "Trebleswap",
+        "domain" : "app.trebleswap.com",
+        "contracts" : [
+          {
+            "address" : "0xa33db50b90e35378faee4058deaab2b392989b65"
+          }
+        ]
+      },
+      {
         "name" : "Trustalabs",
         "domain" : "trustgo.trustalabs.ai",
         "contracts" : [
           {
             "address" : "0xee030ec6f4307411607e55acd08e628ae6655b86"
+          }
+        ]
+      },
+      {
+        "name" : "U235",
+        "domain" : "u235.pro",
+        "contracts" : [
+          {
+            "address" : "0xbeb05a232534c8265b21d52cc88039b268bed9de"
           }
         ]
       },
@@ -36026,6 +38480,15 @@
         ]
       },
       {
+        "name" : "Virtuals",
+        "domain" : "app.virtuals.io",
+        "contracts" : [
+          {
+            "address" : "0xf956d9fa19656d8e5219fd6fa8ba6cb198094138"
+          }
+        ]
+      },
+      {
         "name" : "Wowmax",
         "domain" : "app.wowmax.exchange",
         "contracts" : [
@@ -36035,11 +38498,41 @@
         ]
       },
       {
+        "name" : "Xname",
+        "domain" : "xname.app",
+        "contracts" : [
+          {
+            "address" : "0x4c340a9f4f757eb92252e73007229743dd559124"
+          }
+        ]
+      },
+      {
+        "name" : "Xy",
+        "domain" : "app.xy.finance",
+        "contracts" : [
+          {
+            "address" : "0xcf446713ddf0e83f7527a260047f8ae89efae3e5"
+          },
+          {
+            "address" : "0x66603051bcd56ec1237146159f528d0871e1525f"
+          }
+        ]
+      },
+      {
         "name" : "Zns",
         "domain" : "zns.bio",
         "contracts" : [
           {
             "address" : "0xb00910bac7da44c0d440798809dbf8d51fdbb635"
+          }
+        ]
+      },
+      {
+        "name" : "Zprotocol",
+        "domain" : "app.zprotocol.xyz",
+        "contracts" : [
+          {
+            "address" : "0xd8ea8e35b2fcf37fcbd7933436b1a9b7ce7108bf"
           }
         ]
       }
@@ -36066,6 +38559,9 @@
           },
           {
             "address" : "0xd5f6c8d402e0a0222f7fa132f9e80fdcc074df5c"
+          },
+          {
+            "address" : "0xae2b00d676130bdf22582781bbba8f4f21e8b0ff"
           }
         ]
       },
@@ -36084,6 +38580,15 @@
         "contracts" : [
           {
             "address" : "0x341e94069f53234fe6dabef707ad424830525715"
+          }
+        ]
+      },
+      {
+        "name" : "Basilisk",
+        "domain" : "basilisk.org",
+        "contracts" : [
+          {
+            "address" : "0x1e8f1099a3fe6d2c1a960528394f4feb8f8a288d"
           }
         ]
       },
@@ -36229,6 +38734,24 @@
         ]
       },
       {
+        "name" : "Butterswap",
+        "domain" : "butterswap.io",
+        "contracts" : [
+          {
+            "address" : "0x58a64d2bf0032ac05216ddc9cadd0f9db828bbf5"
+          }
+        ]
+      },
+      {
+        "name" : "Crowdswap",
+        "domain" : "app.crowdswap.org",
+        "contracts" : [
+          {
+            "address" : "0x90a32c5328fb50e59083dc80f7534f88a4ee2a58"
+          }
+        ]
+      },
+      {
         "name" : "Dapdap",
         "domain" : "app.dapdap.net",
         "contracts" : [
@@ -36246,6 +38769,15 @@
           },
           {
             "address" : "0x6c31035d62541ceba2ac587ea09891d1645d6d07"
+          }
+        ]
+      },
+      {
+        "name" : "Decent",
+        "domain" : "app.decent.xyz",
+        "contracts" : [
+          {
+            "address" : "0xa731a771a5d41afcd5ec235b5bc4318d60b1bcda"
           }
         ]
       },
@@ -36283,6 +38815,15 @@
         ]
       },
       {
+        "name" : "Dexilla",
+        "domain" : "dexilla.com",
+        "contracts" : [
+          {
+            "address" : "0x795205f3d4c2132532a3a379cfa747c7a5b1aa90"
+          }
+        ]
+      },
+      {
         "name" : "Draculafi",
         "domain" : "draculafi.xyz",
         "contracts" : [
@@ -36291,6 +38832,15 @@
           },
           {
             "address" : "0x1ba497d383cd7a500a8a25661598204247295a90"
+          }
+        ]
+      },
+      {
+        "name" : "Dzap",
+        "domain" : "app.dzap.io",
+        "contracts" : [
+          {
+            "address" : "0x66c96103d046826beac8d01d8a8df70ef7f18216"
           }
         ]
       },
@@ -36321,6 +38871,24 @@
         "contracts" : [
           {
             "address" : "0x767b4a087c11d7581ac95eaffc1febfa26bad3d2"
+          }
+        ]
+      },
+      {
+        "name" : "Fringe",
+        "domain" : "app.fringe.fi",
+        "contracts" : [
+          {
+            "address" : "0x3ecf9b980be66c78e18f92906196a2728e609f17"
+          }
+        ]
+      },
+      {
+        "name" : "Fulcrom",
+        "domain" : "fulcrom.finance",
+        "contracts" : [
+          {
+            "address" : "0x850fe8be964cc5feb3dd00cfe1364590b45e3926"
           }
         ]
       },
@@ -36357,6 +38925,18 @@
         "contracts" : [
           {
             "address" : "0xdf3e4da3ee75f1018d277222967ce3d69f3271d9"
+          },
+          {
+            "address" : "0xd16eb756136b4128cac1158eaed72e33553f0eb3"
+          }
+        ]
+      },
+      {
+        "name" : "Intswap",
+        "domain" : "intswap.io",
+        "contracts" : [
+          {
+            "address" : "0x4cbf0bb291cd8f769f698d1751e2d4e26ee07b07"
           }
         ]
       },
@@ -36378,6 +38958,15 @@
         "contracts" : [
           {
             "address" : "0x9606ec131eec0f84c95d82c9a63959f2331cf2ac"
+          }
+        ]
+      },
+      {
+        "name" : "Jetonai",
+        "domain" : "jetonai.com",
+        "contracts" : [
+          {
+            "address" : "0xaaa21a0e0903c821560c52887ed1266cd742ba8e"
           }
         ]
       },
@@ -36405,6 +38994,9 @@
         "contracts" : [
           {
             "address" : "0x8b791913eb07c32779a16750e3868aa8495f5964"
+          },
+          {
+            "address" : "0x3388530fbaf0c916fa7c0390413dfb178cb33cbb"
           }
         ]
       },
@@ -36522,6 +39114,12 @@
           },
           {
             "address" : "0x22bfb19ed098ec206fe2e5d0f719672a7dc7103e"
+          },
+          {
+            "address" : "0x9a82d959bfbcb1677585f111eca12a53c369c1b3"
+          },
+          {
+            "address" : "0x38ae1164ca61ee7aa395bb139b3990e347988ce1"
           }
         ]
       },
@@ -36534,6 +39132,15 @@
           },
           {
             "address" : "0xad8262e847676e7eddafee664c4fd492789260ba"
+          }
+        ]
+      },
+      {
+        "name" : "Megalon",
+        "domain" : "megalon.app",
+        "contracts" : [
+          {
+            "address" : "0x09eec809966d025de3b52279d0578ce8570c3e13"
           }
         ]
       },
@@ -36562,11 +39169,29 @@
         ]
       },
       {
+        "name" : "Metavault",
+        "domain" : "metavault.trade",
+        "contracts" : [
+          {
+            "address" : "0x5aea5775959fbc2557cc8789bc1bf90a239d9a91"
+          }
+        ]
+      },
+      {
         "name" : "Micro3",
         "domain" : "micro3.io",
         "contracts" : [
           {
             "address" : "0x0610ecffcc4505a8212a042fc5daff7f2db4d266"
+          }
+        ]
+      },
+      {
+        "name" : "Mintchain",
+        "domain" : "mintchain.io",
+        "contracts" : [
+          {
+            "address" : "0x95cdd9632c924d2cb5586168cf0ba7640df30598"
           }
         ]
       },
@@ -36633,6 +39258,9 @@
           },
           {
             "address" : "0xb9061e38fee7d30134f56aef7117e2f6d1580666"
+          },
+          {
+            "address" : "0x4040bec373f6e8be2f913324de94a7b9242e5e92"
           }
         ]
       },
@@ -36690,6 +39318,75 @@
           },
           {
             "address" : "0xa937e1aa4a7d7cd3800de25632765b045ff3a1f1"
+          },
+          {
+            "address" : "0x5e824921dc99aeab7d0de144a3523ef3b4594db5"
+          },
+          {
+            "address" : "0x87323ad15f45d510b97f823cbe893823b3929b6a"
+          },
+          {
+            "address" : "0x37fe5fbb8faf1af28fecafba494699b890f336ed"
+          },
+          {
+            "address" : "0xb853e88eb808e142b0e1a07621d94233a3571d30"
+          },
+          {
+            "address" : "0x5b350f15bff11ef76b19c6aadcc9ec049f3ff8f8"
+          },
+          {
+            "address" : "0xedbf8caa5ca765c74cca5819baea89636f0a8584"
+          },
+          {
+            "address" : "0xa9c3eec550ef05f157c820dc5adbfd829ad1a197"
+          },
+          {
+            "address" : "0x02e7460b210c53abeece7e897664526bec251131"
+          },
+          {
+            "address" : "0x7ce2c786568a2c50b2640c01b4fffd9d5ecba910"
+          },
+          {
+            "address" : "0x1e22a522033eb61dd52e2e00b82e1f1f80cdb103"
+          },
+          {
+            "address" : "0xc0ae326956f3d370364b42661e9cd16b8e8cc18c"
+          },
+          {
+            "address" : "0xfae448ab44af4fb408641c6f1d390b1fdca6fc8b"
+          },
+          {
+            "address" : "0xe072a369371779082dd6aa8f192362d56bae6b39"
+          },
+          {
+            "address" : "0xa8df5e0b3dee8d48a2e576b8303c87c9ca20d737"
+          },
+          {
+            "address" : "0x7774562ce1351a3be97a08a86596d0e1965b70b8"
+          },
+          {
+            "address" : "0x71a4746a20223150dce1ad2540038a59fedab6b7"
+          },
+          {
+            "address" : "0x60190b57c79519e72311f467cadedc814239875d"
+          },
+          {
+            "address" : "0x8089da98fff13ac288e6e4c115b2d8f9d0c95927"
+          },
+          {
+            "address" : "0x39d31356706e9b9c819bc17586d65368199e7213"
+          },
+          {
+            "address" : "0xd339489caea27e248ec6782123f9ffd8fe7f9468"
+          },
+          {
+            "address" : "0x3c082b52e8ae130ed9671a092feb9044f2c5d459"
+          },
+          {
+            "address" : "0x399d78873db5b12d87f123531a443c7b302f059a"
+          },
+          {
+            "address" : "0x8f5499fdc8e62bf4ed8779a467c98afcbaa4ed18"
           }
         ]
       },
@@ -36726,6 +39423,12 @@
         "contracts" : [
           {
             "address" : "0xd48e3caf0d948203434646a3f3e80f8ee18007dc"
+          },
+          {
+            "address" : "0x95cdd9632c924d2cb5586168cf0ba7640df30598"
+          },
+          {
+            "address" : "0x1da58916f20f86d661f6b08985445a3ef36ffd92"
           }
         ]
       },
@@ -36751,6 +39454,24 @@
         ]
       },
       {
+        "name" : "Pixelswap",
+        "domain" : "pixelswap.xyz",
+        "contracts" : [
+          {
+            "address" : "0x18eefaa436b91edd3839dcfb85bf7c8457c90bda"
+          }
+        ]
+      },
+      {
+        "name" : "Plexus",
+        "domain" : "plexus.app",
+        "contracts" : [
+          {
+            "address" : "0x7667915530fbf47ff822770d2a4458766abcccbc"
+          }
+        ]
+      },
+      {
         "name" : "Reactorfusion",
         "domain" : "main.reactorfusion.xyz",
         "contracts" : [
@@ -36762,6 +39483,18 @@
           },
           {
             "address" : "0xc5db68f30d21cbe0c9eac7be5ea83468d69297e6"
+          }
+        ]
+      },
+      {
+        "name" : "Relay",
+        "domain" : "relay.link",
+        "contracts" : [
+          {
+            "address" : "0xebd1e414ebb98522cfd932104ba41fac10a4ef35"
+          },
+          {
+            "address" : "0xad822d7f6ba100f1a74834e5d3c24b95f1434cbb"
           }
         ]
       },
@@ -36850,6 +39583,15 @@
         ]
       },
       {
+        "name" : "Sushi",
+        "domain" : "sushi.com",
+        "contracts" : [
+          {
+            "address" : "0x35e98c2b3894d71d3d4d7edb8b30e4f36e2f9179"
+          }
+        ]
+      },
+      {
         "name" : "Swapbox",
         "domain" : "swapbox.io",
         "contracts" : [
@@ -36906,6 +39648,15 @@
         "contracts" : [
           {
             "address" : "0x5a7d6b2f92c77fad6ccabd7ee0624e64907eaf3e"
+          }
+        ]
+      },
+      {
+        "name" : "Tarot",
+        "domain" : "tarot.to",
+        "contracts" : [
+          {
+            "address" : "0x61bb845a4797a6ddd2bae9f0926a2019d7556aad"
           }
         ]
       },
@@ -37021,6 +39772,15 @@
         ]
       },
       {
+        "name" : "Veno",
+        "domain" : "veno.finance",
+        "contracts" : [
+          {
+            "address" : "0xe7895ed01a1a6aacf1c2e955af14e7cf612e7f9d"
+          }
+        ]
+      },
+      {
         "name" : "Venus",
         "domain" : "app.venus.io",
         "contracts" : [
@@ -37032,6 +39792,24 @@
           },
           {
             "address" : "0xbbb3c88192a5b0db759229bef49dcd1f168f326f"
+          }
+        ]
+      },
+      {
+        "name" : "Virtuals",
+        "domain" : "app.virtuals.io",
+        "contracts" : [
+          {
+            "address" : "0x4040bec373f6e8be2f913324de94a7b9242e5e92"
+          }
+        ]
+      },
+      {
+        "name" : "Vivaleva",
+        "domain" : "vivaleva.com",
+        "contracts" : [
+          {
+            "address" : "0x23fdd6487a17abb8360e8da8b1b370c94ee94cc2"
           }
         ]
       },
@@ -37072,6 +39850,15 @@
         ]
       },
       {
+        "name" : "Woofi",
+        "domain" : "woofi.com",
+        "contracts" : [
+          {
+            "address" : "0x1d686250bbffa9fe120b591f5992dd7fc0fd99a4"
+          }
+        ]
+      },
+      {
         "name" : "Xy",
         "domain" : "app.xy.finance",
         "contracts" : [
@@ -37080,6 +39867,12 @@
           },
           {
             "address" : "0x935283a00fbf8e40fd2f8c432a488f6addc8db67"
+          },
+          {
+            "address" : "0xfa995b6540cbbe2becc00f00d5b8ce73523d1b51"
+          },
+          {
+            "address" : "0x567e78308ac93176a897a4dad6aa3d2abb5a9477"
           }
         ]
       },
@@ -37104,6 +39897,15 @@
           },
           {
             "address" : "0x4d9429246ea989c9cee203b43f6d1c7d83e3b8f8"
+          }
+        ]
+      },
+      {
+        "name" : "Zeroswap",
+        "domain" : "app.zeroswap.io",
+        "contracts" : [
+          {
+            "address" : "0x36a1acbbcafca2468b85011ddd16e7cb4d673230"
           }
         ]
       },

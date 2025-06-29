@@ -12,6 +12,15 @@
     "arbitrum": [
       {
         "address": "0x4c60051384bd2d3c01bfc845cf5f4b44bcbe9de5"
+      },
+      {
+        "address": "0xf75584ef6673ad213a685a1b58cc0330b8ea22cf"
+      },
+      {
+        "address": "0x01d8edb8ef96119d6bada3f50463dee6fe863b4c"
+      },
+      {
+        "address": "0x246475e1f63d8e26d6f4fb6029033da8831ed396"
       }
     ],
     "zksync": [
@@ -31,6 +40,18 @@
     "base": [
       {
         "address": "0xec8b0f7ffe3ae75d7ffab09429e3675bb63503e4"
+      },
+      {
+        "address": "0x6b2c0c7be2048daa9b5527982c29f48062b34d58"
+      },
+      {
+        "address": "0x80eba3855878739f4710233a8a19d89bdd2ffb8e"
+      },
+      {
+        "address": "0xbc3c5ca50b6a215edf00815965485527f26f5da8"
+      },
+      {
+        "address": "0x610d4dfac3ec32e0be98d18ddb280dacd76a1889"
       }
     ],
     "scroll": [
